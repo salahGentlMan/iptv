@@ -1,512 +1,2651 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Quran Kareem" tvg-logo="https://besttvps.com/app/panel-logos/islamic/qurankareem.png" group-title="Quran | القران الكريم",Quran Kareem
-https://tv.free24ip.xyz:443/live/40841625774535/123/878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Palestine Quran Kareem" tvg-logo="https://besttvps.com/app/panel-logos/islamic/nablusquran.png" group-title="Quran | القران الكريم",Palestine Quran Kareem
-https://tv.free24ip.xyz:443/live/40841625774535/123/3369.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlSunnah Al Nabawiyah" tvg-logo="https://besttvps.com/app/panel-logos/islamic/sunnah.png" group-title="Quran | القران الكريم",AlSunnah Al Nabawiyah
-https://tv.free24ip.xyz:443/live/40841625774535/123/879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa Tv" tvg-logo="https://besttvps.com/app/panel-logos/islamic/iqraa.png" group-title="Quran | القران الكريم",Iqraa Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1011.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlErth AlNabawi" tvg-logo="https://besttvps.com/app/panel-logos/islamic/alaerth.png" group-title="Quran | القران الكريم",AlErth AlNabawi
-https://tv.free24ip.xyz:443/live/40841625774535/123/1031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Makkah Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/makkah.png" group-title="Quran | القران الكريم",Makkah Quran
-https://tv.free24ip.xyz:443/live/40841625774535/123/877.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kaif Tv" tvg-logo="https://besttvps.com/app/panel-logos/islamic/kaif.png" group-title="Quran | القران الكريم",Kaif Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/3088.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Qotami" tvg-logo="https://besttvps.com/app/panel-logos/islamic/qotami.png" group-title="Quran | القران الكريم",Al Qotami
-https://tv.free24ip.xyz:443/live/40841625774535/123/974.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahlu AlQuran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ahluquran.png" group-title="Quran | القران الكريم",Ahlu AlQuran
-https://tv.free24ip.xyz:443/live/40841625774535/123/973.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ayat Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ayat.png" group-title="Quran | القران الكريم",Ayat Quran
-https://tv.free24ip.xyz:443/live/40841625774535/123/1000.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Majd Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/almajd.png" group-title="Quran | القران الكريم",Al Majd Quran
-https://tv.free24ip.xyz:443/live/40841625774535/123/398.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahmad AL Ajami" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ahmadalajmi.png" group-title="Quran | القران الكريم",Ahmad AL Ajami
-https://tv.free24ip.xyz:443/live/40841625774535/123/3090.ts
-#EXTINF:-1 tvg-id="" tvg-name="Saad Al Ghamidi" tvg-logo="https://besttvps.com/app/panel-logos/islamic/saadghamdi.png" group-title="Quran | القران الكريم",Saad Al Ghamidi
-https://tv.free24ip.xyz:443/live/40841625774535/123/3089.ts
-#EXTINF:-1 tvg-id="" tvg-name="Maher Al Muaiqly" tvg-logo="https://besttvps.com/app/panel-logos/islamic/mahermeqli.png" group-title="Quran | القران الكريم",Maher Al Muaiqly
-https://tv.free24ip.xyz:443/live/40841625774535/123/3091.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yasser Al Dossari" tvg-logo="https://besttvps.com/app/panel-logos/islamic/yaserdosri.png" group-title="Quran | القران الكريم",Yasser Al Dossari
-https://tv.free24ip.xyz:443/live/40841625774535/123/3092.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1hd.png" group-title="beIN Sports Max",beIN Max 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1227.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1sd.png" group-title="beIN Sports Max",beIN Max 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1231.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax2hd.png" group-title="beIN Sports Max",beIN Max 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1228.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax2sd.png" group-title="beIN Sports Max",beIN Max 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1232.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 3 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax3hd.png" group-title="beIN Sports Max",beIN Max 3 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1229.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax3sd.png" group-title="beIN Sports Max",beIN Max 3 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1233.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 4 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax4hd.png" group-title="beIN Sports Max",beIN Max 4 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1230.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 4 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax4sd.png" group-title="beIN Sports Max",beIN Max 4 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1234.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 5 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax5hd.png" group-title="beIN Sports Max",beIN Max 5 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1235.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 5 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax5sd.png" group-title="beIN Sports Max",beIN Max 5 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1236.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 6 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax6hd.png" group-title="beIN Sports Max",beIN Max 6 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1237.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Max 6 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax6sd.png" group-title="beIN Sports Max",beIN Max 6 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1238.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 1 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1k.png" group-title="beIN Sports 4K",⚽ | beIN Premium 1 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1080.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 2 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2k.png" group-title="beIN Sports 4K",⚽ | beIN Premium 2 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1081.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 3 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3k.png" group-title="beIN Sports 4K",⚽ | beIN Premium 3 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1082.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 1 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 1 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1083.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 2 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1084.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 3 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1085.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 4 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 4 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1086.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 5 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 5 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1087.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 6 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 6 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1088.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 7 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7k.png" group-title="beIN Sports 4K",⚽ | beIN Sports 7 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1089.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 01 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1k.png" group-title="beIN Sports 4K",⛳ beIN Premium 01 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1090.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 02 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2k.png" group-title="beIN Sports 4K",⛳ beIN Premium 02 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1091.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 03 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3k.png" group-title="beIN Sports 4K",⛳ beIN Premium 03 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1092.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 01 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1k.png" group-title="beIN Sports 4K",⛳ beIN Sports 01 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1093.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 02 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2k.png" group-title="beIN Sports 4K",⛳ beIN Sports 02 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1094.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 03 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3k.png" group-title="beIN Sports 4K",⛳ beIN Sports 03 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1095.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 04 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4k.png" group-title="beIN Sports 4K",⛳ beIN Sports 04 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1096.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 05 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5k.png" group-title="beIN Sports 4K",⛳ beIN Sports 05 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1097.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 06 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6k.png" group-title="beIN Sports 4K",⛳ beIN Sports 06 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1098.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 07 4K" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7k.png" group-title="beIN Sports 4K",⛳ beIN Sports 07 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1099.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports News HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinnews.png" group-title="beIN Sports HD",⚽ | beIN Sports News HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1103.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 1 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1.png" group-title="beIN Sports HD",⚽ | beIN Premium 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1104.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 2 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2.png" group-title="beIN Sports HD",⚽ | beIN Premium 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1105.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 3 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3.png" group-title="beIN Sports HD",⚽ | beIN Premium 3 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1106.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 1 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1107.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1108.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 3 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1109.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 4 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 4 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1110.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 5 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 5 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1111.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 6 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 6 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1112.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 7 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7hd.png" group-title="beIN Sports HD",⚽ | beIN Sports 7 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1113.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/bein.png" group-title="beIN Sports HD",⚽ | beIN Sports HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1102.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports NBA HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/nbahd.png" group-title="beIN Sports HD",⚽ | beIN Sports NBA HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1120.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports Extra HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1xhd.png" group-title="beIN Sports HD",⚽ | beIN Sports Extra HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1114.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 01 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1.png" group-title="beIN Sports HD",⛳ beIN Premium 01 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1121.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 02 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2.png" group-title="beIN Sports HD",⛳ beIN Premium 02 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1122.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 03 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3.png" group-title="beIN Sports HD",⛳ beIN Premium 03 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1123.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 01 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1hd.png" group-title="beIN Sports HD",⛳ beIN Sports 01 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1125.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 02 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2hd.png" group-title="beIN Sports HD",⛳ beIN Sports 02 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1124.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 03 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3hd.png" group-title="beIN Sports HD",⛳ beIN Sports 03 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1126.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 04 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4hd.png" group-title="beIN Sports HD",⛳ beIN Sports 04 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1127.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 05 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5hd.png" group-title="beIN Sports HD",⛳ beIN Sports 05 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1128.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 06 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6hd.png" group-title="beIN Sports HD",⛳ beIN Sports 06 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1129.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 07 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7hd.png" group-title="beIN Sports HD",⛳ beIN Sports 07 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1130.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1133.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1134.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 3 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1135.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1136.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1137.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 3 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1138.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 4 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 4 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1139.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 5 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 5 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1140.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 6 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 6 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1141.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 7 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 7 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1142.ts
-#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports Extra 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1xsd.png" group-title="beIN Sports SD",⚽ | beIN Sports Extra 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1143.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⛳ beIN Premium 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1149.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⛳ beIN Premium 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1150.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3sd.png" group-title="beIN Sports SD",⛳ beIN Premium 3 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1151.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1sd.png" group-title="beIN Sports SD",⛳ beIN Sports 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1153.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2sd.png" group-title="beIN Sports SD",⛳ beIN Sports 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1152.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3sd.png" group-title="beIN Sports SD",⛳ beIN Sports 3 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1154.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 4 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4sd.png" group-title="beIN Sports SD",⛳ beIN Sports 4 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1155.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 5 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5sd.png" group-title="beIN Sports SD",⛳ beIN Sports 5 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1156.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 6 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6sd.png" group-title="beIN Sports SD",⛳ beIN Sports 6 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1157.ts
-#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 7 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7sd.png" group-title="beIN Sports SD",⛳ beIN Sports 7 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1158.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 1 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="beIN Entertainment",BeIN Movies 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1175.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 2 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="beIN Entertainment",BeIN Movies 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1176.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 3 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="beIN Entertainment",BeIN Movies 3 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1177.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 4 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="beIN Entertainment",BeIN Movies 4 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1178.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1181.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="beIN Entertainment",beIN Series 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1179.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="beIN Entertainment",beIN Series 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1180.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies HD" tvg-logo="https://besttvps.com/app/tv/news/panel/foxmovies.png" group-title="Fox Network",beIN Fox Movies HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1185.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Action HD" tvg-logo="https://besttvps.com/app/tv/news/panel/foxactionmovies.png" group-title="Fox Network",beIN Fox Action HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1186.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime HD" tvg-logo="https://besttvps.com/app/tv/news/panel/foxcrime.png" group-title="Fox Network",beIN Fox Crime HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1183.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Rewayat HD" tvg-logo="https://besttvps.com/app/tv/news/panel/foxrewayat.png" group-title="Fox Network",beIN Fox Rewayat HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1184.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life HD" tvg-logo="https://besttvps.com/app/tv/news/panel/foxlife.png" group-title="Fox Network",beIN Fox Life HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1182.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fatafeat HD" tvg-logo="https://besttvps.com/app/tv/news/panel/fatafet.png" group-title="beIN Entertainment",beIN Fatafeat HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1188.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beingourmet.png" group-title="beIN Entertainment",beIN Gourmet HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1187.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth HD" tvg-logo="https://besttvps.com/app/panel-logos/bbcearth.png" group-title="beIN Entertainment",beIN BBC Earth HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1189.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinjeem.png" group-title="beIN Entertainment",beIN Jeem HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1192.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem HD" tvg-logo="https://besttvps.com/app/tv/news/panel/beinbaraeem.png" group-title="beIN Entertainment",beIN Baraem HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/1191.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 Premiere 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="beIN Entertainment",beIN Movies 1 Premiere 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 Action 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="beIN Entertainment",beIN Movies 2 Action 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 Drama 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="beIN Entertainment",beIN Movies 3 Drama 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 Family 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="beIN Entertainment",beIN Movies 4 Family 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1163.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="beIN Entertainment",beIN Series 1 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1161.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="beIN Entertainment",beIN Series 2 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1162.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/foxmovies.png" group-title="Fox Network",beIN Fox Movies 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1167.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Action 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/foxactionmovies.png" group-title="Fox Network",beIN Fox Action 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1166.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/foxcrime.png" group-title="Fox Network",beIN Fox Crime 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1164.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Rewayat 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/foxrewayat.png" group-title="Fox Network",beIN Fox Rewayat 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1169.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/foxlife.png" group-title="Fox Network",beIN Fox Life 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1165.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beingourmet.png" group-title="beIN Entertainment",beIN Gourmet 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1168.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fatafeat 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/fatafet.png" group-title="beIN Entertainment",beIN Fatafeat 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1170.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinbaraeem.png" group-title="beIN Entertainment",beIN Baraem 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1173.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem 4K" tvg-logo="https://besttvps.com/app/tv/news/panel/beinjeem.png" group-title="beIN Entertainment",beIN Jeem 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1174.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth 4K" tvg-logo="https://besttvps.com/app/panel-logos/bbcearth.png" group-title="beIN Entertainment",beIN BBC Earth 4K
-https://tv.free24ip.xyz:443/live/40841625774535/123/1171.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://besttvps.com/app/panel-logos/mbc1.png" group-title="MBC Group",MBC 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/91.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://besttvps.com/app/panel-logos/mbc-2.png" group-title="MBC Group",MBC 2
-https://tv.free24ip.xyz:443/live/40841625774535/123/95.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="MBC Group",MBC 4
-https://tv.free24ip.xyz:443/live/40841625774535/123/97.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="MBC Group",MBC 5
-https://tv.free24ip.xyz:443/live/40841625774535/123/98.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="https://besttvps.com/app/panel-logos/mbc-action.png" group-title="MBC Group",MBC Action
-https://tv.free24ip.xyz:443/live/40841625774535/123/99.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://besttvps.com/app/panel-logos/mbc-max.png" group-title="MBC Group",MBC Max
-https://tv.free24ip.xyz:443/live/40841625774535/123/100.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://besttvps.com/app/panel-logos/mbc-bollywood.png" group-title="MBC Group",MBC Bollywood
-https://tv.free24ip.xyz:443/live/40841625774535/123/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="MBC Group",MBC Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/102.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ Plus" tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="MBC Group",MBC Drama+ Plus
-https://tv.free24ip.xyz:443/live/40841625774535/123/103.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 1" tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="MBC Group",MBC Masr 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/104.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="MBC Group",MBC Masr 2
-https://tv.free24ip.xyz:443/live/40841625774535/123/105.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="MBC Group",MBC Iraq
-https://tv.free24ip.xyz:443/live/40841625774535/123/106.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Wanasah" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="MBC Group",MBC Wanasah
-https://tv.free24ip.xyz:443/live/40841625774535/123/93.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Palestine.png" group-title="Palestine | فلسطين",PS: Palestine Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/272.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Live" tvg-logo="https://besttvps.com/app/panel-logos/palestine/PalestineLive.png" group-title="Palestine | فلسطين",PS: Palestine Live
-https://tv.free24ip.xyz:443/live/40841625774535/123/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Sports" tvg-logo="https://besttvps.com/app/panel-logos/palestine/palestineSports.png" group-title="Palestine | فلسطين",PS: Palestine Sports
-https://tv.free24ip.xyz:443/live/40841625774535/123/1064.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Edu" tvg-logo="https://besttvps.com/app/panel-logos/palestine/palestineEdu.png" group-title="Palestine | فلسطين",PS: Palestine Edu
-https://tv.free24ip.xyz:443/live/40841625774535/123/1065.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Al Aqsa Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/alaqsa.png" group-title="Palestine | فلسطين",PS: Al Aqsa Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/282.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Today" tvg-logo="https://besttvps.com/app/panel-logos/palestine/PalestineToday.png" group-title="Palestine | فلسطين",PS: Palestine Today
-https://tv.free24ip.xyz:443/live/40841625774535/123/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Fajer Tv 1 SD" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Fajer1sd.png" group-title="Palestine | فلسطين",PS: Fajer Tv 1 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Fajer Tv 2 SD" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Fajer2sd.png" group-title="Palestine | فلسطين",PS: Fajer Tv 2 SD
-https://tv.free24ip.xyz:443/live/40841625774535/123/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Fajer Tv 1 HD" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Fajer1hd.png" group-title="Palestine | فلسطين",PS: Fajer Tv 1 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/994.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Fajer Tv 2 HD" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Fajer2hd.png" group-title="Palestine | فلسطين",PS: Fajer Tv 2 HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/995.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Maan Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Maan.png" group-title="Palestine | فلسطين",PS: Maan Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Hala Ramallah" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Halaramallah.png" group-title="Palestine | فلسطين",PS: Hala Ramallah
-https://tv.free24ip.xyz:443/live/40841625774535/123/277.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Audeh Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Awdah.png" group-title="Palestine | فلسطين",PS: Audeh Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/998.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Rehan Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Rehan.png" group-title="Palestine | فلسطين",PS: Rehan Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/288.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Falastini Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Falastini.png" group-title="Palestine | فلسطين",PS: Falastini Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Shabab Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Shabab.png" group-title="Palestine | فلسطين",PS: Shabab Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/999.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Ajyal Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Ajyal.png" group-title="Palestine | فلسطين",PS: Ajyal Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Raya TV" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Raya.png" group-title="Palestine | فلسطين",PS: Raya TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/289.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Wattan Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Wattan.png" group-title="Palestine | فلسطين",PS: Wattan Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Al Najah Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Najah.png" group-title="Palestine | فلسطين",PS: Al Najah Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/292.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Nablus Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Nablus.png" group-title="Palestine | فلسطين",PS: Nablus Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Watar Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Wattar.png" group-title="Palestine | فلسطين",PS: Watar Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/286.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Ark Media TV" tvg-logo="https://besttvps.com/app/panel-logos/palestine/arkmedia.png" group-title="Palestine | فلسطين",PS: Ark Media TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/621.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Quds Today" tvg-logo="https://besttvps.com/app/panel-logos/palestine/alquds.png" group-title="Palestine | فلسطين",Al Quds Today
-https://tv.free24ip.xyz:443/live/40841625774535/123/1214.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Marah Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Marah.png" group-title="Palestine | فلسطين",PS: Marah Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/290.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Bethlehem Tv 1" tvg-logo="https://besttvps.com/app/panel-logos/palestine/bethlahem.png" group-title="Palestine | فلسطين",PS: Bethlehem Tv 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/284.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Musawa Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Msawwa.png" group-title="Palestine | فلسطين",PS: Musawa Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="PNN Palestine" tvg-logo="https://besttvps.com/app/panel-logos/palestine/PNN.png" group-title="Palestine | فلسطين",PNN Palestine
-https://tv.free24ip.xyz:443/live/40841625774535/123/3305.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Hala Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Hala.png" group-title="Palestine | فلسطين",PS: Hala Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Horyya" tvg-logo="https://besttvps.com/app/panel-logos/palestine/hrps.png" group-title="Palestine | فلسطين",Al Horyya
-https://tv.free24ip.xyz:443/live/40841625774535/123/278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Horyya Sport" tvg-logo="https://besttvps.com/app/panel-logos/palestine/hrsports.png" group-title="Palestine | فلسطين",Al Horyya Sport
-https://tv.free24ip.xyz:443/live/40841625774535/123/280.ts
-#EXTINF:-1 tvg-id="" tvg-name="Naas" tvg-logo="https://besttvps.com/app/panel-logos/palestine/naas.png" group-title="Palestine | فلسطين",Naas
-https://tv.free24ip.xyz:443/live/40841625774535/123/109.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Balad" tvg-logo="https://besttvps.com/app/panel-logos/palestine/albalad.png" group-title="Palestine | فلسطين",Al Balad
-https://tv.free24ip.xyz:443/live/40841625774535/123/1003.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS: Hebron New Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/hebronnew.png" group-title="Palestine | فلسطين",PS: Hebron New Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/977.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mawwal" tvg-logo="https://besttvps.com/app/panel-logos/palestine/mawwal.png" group-title="Palestine | فلسطين",Mawwal
-https://tv.free24ip.xyz:443/live/40841625774535/123/108.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baladna" tvg-logo="https://besttvps.com/app/panel-logos/palestine/baladna.png" group-title="Palestine | فلسطين",Baladna
-https://tv.free24ip.xyz:443/live/40841625774535/123/1002.ts
-#EXTINF:-1 tvg-id="" tvg-name="Makan Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/Makkan.png" group-title="Palestine | فلسطين",Makan Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/967.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kol Al Naas Tv" tvg-logo="https://besttvps.com/app/panel-logos/palestine/kolalnas.png" group-title="Palestine | فلسطين",Kol Al Naas Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://besttvps.com/app/tv/news/panel/mixhollywood.png" group-title="Egypt | مصر",Mix Hollywood
-https://tv.free24ip.xyz:443/live/40841625774535/123/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="https://i.pinimg.com/originals/f5/c6/ce/f5c6ce87c43df7fefe7c53dd4c5e47dd.png" group-title="Egypt | مصر",Nile Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="http://logo.panel.cx/logo/AFRICA/EGYPT/NILE.png" group-title="Egypt | مصر",Nile Cinema
-https://tv.free24ip.xyz:443/live/40841625774535/123/1007.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Comedy" tvg-logo="https://media.elcinema.com/tvguide/1158_1.png" group-title="Egypt | مصر",Nile Comedy
-https://tv.free24ip.xyz:443/live/40841625774535/123/1008.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Family" tvg-logo="http://logo.panel.cx/logo/AFRICA/EGYPT/NILE.png" group-title="Egypt | مصر",Nile Family
-https://tv.free24ip.xyz:443/live/40841625774535/123/1009.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Sports" tvg-logo="https://pbs.twimg.com/profile_images/547069601796730880/wQ8l599B_200x200.png" group-title="Egypt | مصر",Nile Sports
-https://tv.free24ip.xyz:443/live/40841625774535/123/1066.ts
-#EXTINF:-1 tvg-id="" tvg-name="DMC Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" group-title="Egypt | مصر",DMC Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="DMC HD" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Egypt | مصر",DMC HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/197.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON E TV" tvg-logo="https://media.elcinema.com/tvguide/1203_1.png" group-title="Egypt | مصر",ON E TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/201.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" group-title="Egypt | مصر",ON Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/200.ts
-#EXTINF:-1 tvg-id="" tvg-name="Maspero Zaman" tvg-logo="https://media.elcinema.com/tvguide/1336_1.png" group-title="Egypt | مصر",Maspero Zaman
-https://tv.free24ip.xyz:443/live/40841625774535/123/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL Haya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.png" group-title="Egypt | مصر",AL Haya
-https://tv.free24ip.xyz:443/live/40841625774535/123/876.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL Haya Drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlhayahMosalsalat-200x150.png" group-title="Egypt | مصر",AL Haya Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/214.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Aflam" tvg-logo="" group-title="Egypt | مصر",Cinema Aflam
-https://tv.free24ip.xyz:443/live/40841625774535/123/223.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png" group-title="Egypt | مصر",CBC Egypt
-https://tv.free24ip.xyz:443/live/40841625774535/123/873.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="https://i.pinimg.com/originals/5e/49/b2/5e49b2c6cd83bc697c2c1e1dcda5fe94.png" group-title="Egypt | مصر",CBC Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/874.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada Drama" tvg-logo="https://i.ibb.co/MDCtCyS/sada-drama.png" group-title="Egypt | مصر",Sada Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/198.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada AlBalad" tvg-logo="https://i.ibb.co/W6XW9mh/sada-albalad.png" group-title="Egypt | مصر",Sada AlBalad
-https://tv.free24ip.xyz:443/live/40841625774535/123/875.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="http://logo.panel.cx/logo/AFRICA/EGYPT/ALNAHARDRAMA.png" group-title="Egypt | مصر",Al Nahar Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/1005.ts
-#EXTINF:-1 tvg-id="" tvg-name="Omg Tv" tvg-logo="https://i.ibb.co/rfrXD4W/dd.png" group-title="Egypt | مصر",Omg Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1061.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Ahly Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Al_Ahly_SC_logo.png/200px-Al_Ahly_SC_logo.png" group-title="Egypt | مصر",Al Ahly Sports
-https://tv.free24ip.xyz:443/live/40841625774535/123/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Zamalek Sport" tvg-logo="https://img2.pngio.com/zamalek-png-6-png-image-zamalek-png-200_200.png" group-title="Egypt | مصر",Al Zamalek Sport
-https://tv.free24ip.xyz:443/live/40841625774535/123/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="https://besttvps.com/app/tv/news/panel/artaflam1.png" group-title="ART Group",ART Aflam 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 2" tvg-logo="https://besttvps.com/app/tv/news/panel/artaflam2.png" group-title="ART Group",ART Aflam 2
-https://tv.free24ip.xyz:443/live/40841625774535/123/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="https://besttvps.com/app/tv/news/panel/artcinema.png" group-title="ART Group",ART Cinema
-https://tv.free24ip.xyz:443/live/40841625774535/123/193.ts
-#EXTINF:-1 tvg-id="" tvg-name="ART Hikayat 1" tvg-logo="https://besttvps.com/app/tv/news/panel/arthykayat1.png" group-title="ART Group",ART Hikayat 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/194.ts
-#EXTINF:-1 tvg-id="" tvg-name="ART Hikayat 2" tvg-logo="https://besttvps.com/app/tv/news/panel/arthykayat2.png" group-title="ART Group",ART Hikayat 2
-https://tv.free24ip.xyz:443/live/40841625774535/123/195.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Arabia" tvg-logo="https://4.bp.blogspot.com/-G23wYrNkJ6o/UbIMRtNBW6I/AAAAAAAAS9o/ibBaDHHtAWk/s1600/natgeochannelabudhabi.png" group-title="Documentary | وثائقي",Nat Geo Arabia
-https://tv.free24ip.xyz:443/live/40841625774535/123/661.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="Documentary | وثائقي",Nat Geo Wild
-https://tv.free24ip.xyz:443/live/40841625774535/123/14.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary | وثائقي",Nat Geo People
-https://tv.free24ip.xyz:443/live/40841625774535/123/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="Africam Tau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/150px-2018_Animal_Planet_logo.svg.png" group-title="Documentary | وثائقي",Africam Tau
-https://tv.free24ip.xyz:443/live/40841625774535/123/42.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL Jazeera Documentary" tvg-logo="https://besttvps.com/app/tv/news/panel/jazduc.png" group-title="Documentary | وثائقي",AL Jazeera Documentary
-https://tv.free24ip.xyz:443/live/40841625774535/123/88.ts
-#EXTINF:-1 tvg-id="" tvg-name="Africam Naledi" tvg-logo="http://iptv.thgss.com:8000/icon/InsidetheWorldsToughestPrisons.ico" group-title="Documentary | وثائقي",Africam Naledi
-https://tv.free24ip.xyz:443/live/40841625774535/123/3123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Documentary | Dope" tvg-logo="" group-title="Documentary | وثائقي",Documentary | Dope
-https://tv.free24ip.xyz:443/live/40841625774535/123/3124.ts
-#EXTINF:-1 tvg-id="" tvg-name="Documentary  Agents of Chaos" tvg-logo="" group-title="Documentary | وثائقي",Documentary  Agents of Chaos
-https://tv.free24ip.xyz:443/live/40841625774535/123/3125.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV" tvg-logo="https://i.ibb.co/Lg3SXBY/bahrin.png" group-title="Arabs | عربية منوعة",Bahrain TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/3368.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain International" tvg-logo="https://i.ibb.co/QXFDpRh/bahinter.png" group-title="Arabs | عربية منوعة",Bahrain International
-https://tv.free24ip.xyz:443/live/40841625774535/123/3367.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Lawal" tvg-logo="https://i.ibb.co/WPyg1tp/bahrinlwl.png" group-title="Arabs | عربية منوعة",Bahrain Lawal
-https://tv.free24ip.xyz:443/live/40841625774535/123/3364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 1" tvg-logo="https://i.ibb.co/y8YMJvN/bahrinsport1.png" group-title="Arabs | عربية منوعة",Bahrain Sport 1
-https://tv.free24ip.xyz:443/live/40841625774535/123/3365.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 2" tvg-logo="https://i.ibb.co/6wTv029/bahrinsport2.png" group-title="Arabs | عربية منوعة",Bahrain Sport 2
-https://tv.free24ip.xyz:443/live/40841625774535/123/3366.ts
-#EXTINF:-1 tvg-id="" tvg-name="Roya HD" tvg-logo="https://besttvps.com/app/tv/news/panel/roya.png" group-title="Jordan | الأردن",Roya HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jordan TV" tvg-logo="https://i.ibb.co/9qCL4PP/jordantv.png" group-title="Jordan | الأردن",Jordan TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/383.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amman Tv" tvg-logo="https://i.ibb.co/rZKZZw0/ammantv2.png" group-title="Jordan | الأردن",Amman Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/962.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Mamlka" tvg-logo="https://i.ibb.co/T2j5gV4/almamlaka.png" group-title="Jordan | الأردن",Al Mamlka
-https://tv.free24ip.xyz:443/live/40841625774535/123/385.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jordan A One" tvg-logo="https://i.ibb.co/KmTfQRn/jordanaone.png" group-title="Jordan | الأردن",Jordan A One
-https://tv.free24ip.xyz:443/live/40841625774535/123/959.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amen FM" tvg-logo="https://i.ibb.co/vD0N69c/amenfm.png" group-title="Jordan | الأردن",Amen FM
-https://tv.free24ip.xyz:443/live/40841625774535/123/3362.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yarmouk TV" tvg-logo="https://i.ibb.co/MGKzXwK/yarmok.png" group-title="Jordan | الأردن",Yarmouk TV
-https://tv.free24ip.xyz:443/live/40841625774535/123/3363.ts
-#EXTINF:-1 tvg-id="jordansports.jo" tvg-name="Jordan Sports" tvg-logo="https://i.ibb.co/xzmHqzR/jordansports.png" group-title="Jordan | الأردن",Jordan Sports
-https://tv.free24ip.xyz:443/live/40841625774535/123/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lana Tv" tvg-logo="https://besttvps.com/app/tv/news/panel/lana.png" group-title="Syria | سوريا",Lana Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lana+ Plus" tvg-logo="https://besttvps.com/app/tv/news/panel/lanaplus.png" group-title="Syria | سوريا",Lana+ Plus
-https://tv.free24ip.xyz:443/live/40841625774535/123/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="https://besttvps.com/app/tv/news/panel/mtv.png" group-title="Lebanon | لبنان",MTV Lebanon HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL Jadeed" tvg-logo="https://besttvps.com/app/tv/news/panel/aljadeed.png" group-title="Lebanon | لبنان",AL Jadeed
-https://tv.free24ip.xyz:443/live/40841625774535/123/196.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon Tv" tvg-logo="https://besttvps.com/app/tv/news/panel/tllebanon.png" group-title="Lebanon | لبنان",Tele Lebanon Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/956.ts
-#EXTINF:-1 tvg-id="" tvg-name="Future Tv" tvg-logo="https://besttvps.com/app/tv/news/panel/futer.png" group-title="Lebanon | لبنان",Future Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/966.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="https://besttvps.com/app/tv/news/panel/lbcinter.png" group-title="Lebanon | لبنان",LBC International
-https://tv.free24ip.xyz:443/live/40841625774535/123/107.ts
-#EXTINF:-1 tvg-id="" tvg-name="OTV Lebanon" tvg-logo="https://besttvps.com/app/tv/news/panel/otv.png" group-title="Lebanon | لبنان",OTV Lebanon
-https://tv.free24ip.xyz:443/live/40841625774535/123/2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Emarat Tv" tvg-logo="https://besttvps.com/app/panel-logos/Emarat.png" group-title="Arabs | عربية منوعة",Al Emarat Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1030.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://besttvps.com/app/panel-logos/Dubai-one.png" group-title="Arabs | عربية منوعة",Dubai One
-https://tv.free24ip.xyz:443/live/40841625774535/123/963.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Tv" tvg-logo="https://besttvps.com/app/panel-logos/DubaiTV.png" group-title="Arabs | عربية منوعة",Dubai Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/961.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Zaman" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3e2e9ac.png" group-title="Arabs | عربية منوعة",Dubai Zaman
-https://tv.free24ip.xyz:443/live/40841625774535/123/960.ts
-#EXTINF:-1 tvg-id="" tvg-name="Oman Live" tvg-logo="https://besttvps.com/app/panel-logos/Oman-live.png" group-title="Arabs | عربية منوعة",Oman Live
-https://tv.free24ip.xyz:443/live/40841625774535/123/1020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Oman Tv" tvg-logo="https://besttvps.com/app/panel-logos/Oman.png" group-title="Arabs | عربية منوعة",Oman Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Qatar Tv" tvg-logo="https://besttvps.com/app/panel-logos/Qatar.png" group-title="Arabs | عربية منوعة",Qatar Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/965.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="https://besttvps.com/app/panel-logos/Dubai-Sama.png" group-title="Arabs | عربية منوعة",Sama Dubai
-https://tv.free24ip.xyz:443/live/40841625774535/123/1026.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dahbi" tvg-logo="https://besttvps.com/app/panel-logos/ADTv.png" group-title="Arabs | عربية منوعة",Abu Dahbi
-https://tv.free24ip.xyz:443/live/40841625774535/123/1014.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Drama" tvg-logo="https://besttvps.com/app/panel-logos/AD-Drama.png" group-title="Arabs | عربية منوعة",Abu Dhabi Drama
-https://tv.free24ip.xyz:443/live/40841625774535/123/964.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL Rai Tv" tvg-logo="https://i.ibb.co/8bc5bjc/AlraiTV.png" group-title="Arabs | عربية منوعة",AL Rai Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1032.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam" tvg-logo="https://i.ibb.co/QQ3RvXc/zee.png" group-title="Arabs | عربية منوعة",Zee Aflam
-https://tv.free24ip.xyz:443/live/40841625774535/123/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Arabs | عربية منوعة",Zee Alwan
-https://tv.free24ip.xyz:443/live/40841625774535/123/43.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Rafidain" tvg-logo="https://alrafidain.org/wp-content/uploads/2020/06/ALRAFIDAIN-1-1-e1594111203583.png" group-title="Arabs | عربية منوعة",Al Rafidain
-https://tv.free24ip.xyz:443/live/40841625774535/123/1033.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Rayyan Qadeem" tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2017/10/rayyanqadeem.png" group-title="Arabs | عربية منوعة",Al Rayyan Qadeem
-https://tv.free24ip.xyz:443/live/40841625774535/123/1012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Rayyan Tv" tvg-logo="https://www.alrayyan.tv//wp-content/uploads/2016/04/TVLogo.png" group-title="Arabs | عربية منوعة",Al Rayyan Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/1013.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="Arabs | عربية منوعة",Al Sharqiya
-https://tv.free24ip.xyz:443/live/40841625774535/123/1034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Sumaria" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="Arabs | عربية منوعة",Al Sumaria
-https://tv.free24ip.xyz:443/live/40841625774535/123/1037.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U Aflam" tvg-logo="https://static.wixstatic.com/media/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.png" group-title="Arabs | عربية منوعة",B4U Aflam
-https://tv.free24ip.xyz:443/live/40841625774535/123/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBN Tv" tvg-logo="https://i.ibb.co/4MhzX6T/nbntv.png" group-title="Lebanon | لبنان",NBN Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/380.ts
-#EXTINF:-1 tvg-id="" tvg-name="Funoon HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="Arabs | عربية منوعة",Funoon HD
-https://tv.free24ip.xyz:443/live/40841625774535/123/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="iFilm Tv" tvg-logo="" group-title="Arabs | عربية منوعة",iFilm Tv
-https://tv.free24ip.xyz:443/live/40841625774535/123/969.ts
+#EXTINF:-1,AL KAICER IPTV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3019
+#EXTINF:-1,•●★★--- Islami ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/116
+#EXTINF:-1,AR: Saudi Qraan
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/126
+#EXTINF:-1,AR: Saudi Sunna
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/958
+#EXTINF:-1,Masr Quran TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3020
+#EXTINF:-1,Ar: Quran TV 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3708
+#EXTINF:-1,AR: Quran Maher AlMuaiqly
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3710
+#EXTINF:-1,AR: sahih muslim
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3711
+#EXTINF:-1,AR: Sahih al-Bukhari
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3712
+#EXTINF:-1,AR: Almajd TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2092
+#EXTINF:-1,AR: Almajd Quraan
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/957
+#EXTINF:-1,AR: Almajd Hadeth
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/956
+#EXTINF:-1,AR: Al Majd Basma
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3646
+#EXTINF:-1,AR: Al Majd Dal
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3647
+#EXTINF:-1,AR: Al Majd Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3648
+#EXTINF:-1,AR: Al Majd Documentary
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3649
+#EXTINF:-1,AR:  Al Majd Rawda
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3650
+#EXTINF:-1,AR: Al Majd Science
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3651
+#EXTINF:-1,AR:  Ayat
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2090
+#EXTINF:-1,AR:Al resalah 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2091
+#EXTINF:-1,AR:Al_Nas
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2089
+#EXTINF:-1,•●★★--- القرءان الكريــــــــــم---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3289
+#EXTINF:-1,اذاعه القرءان الكريم من القاهرة
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3295
+#EXTINF:-1,راديو مشارى بن راشد العفاسى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2739
+#EXTINF:-1,راديو احمد بن على العجمى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2740
+#EXTINF:-1,راديو محمد جبريل
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2741
+#EXTINF:-1,راديو عبدا الباسط عبد الصمد
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2742
+#EXTINF:-1,راديو فارس عياد
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3288
+#EXTINF:-1,راديو ابو بكر الشاطرى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2743
+#EXTINF:-1,راديو ماهر المعيقلى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2744
+#EXTINF:-1,راديو الحصرى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2745
+#EXTINF:-1,راديو احمد الطرابلسى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2746
+#EXTINF:-1,راديو الطبلاوي
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3285
+#EXTINF:-1,راديو الشريم
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3292
+#EXTINF:-1,راديو السديس
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3293
+#EXTINF:-1,راديو الحذيفى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3294
+#EXTINF:-1,راديو عبد الله علي جابر
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3286
+#EXTINF:-1,راديو محمد ايوب
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3290
+#EXTINF:-1,راديو خالد القحطانى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3287
+#EXTINF:-1,راديو ياسر الدوسرى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3540
+#EXTINF:-1,راديو محمد صديق المنشاوى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3291
+#EXTINF:-1,راديو سعد الغامدى
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3444
+#EXTINF:-1,•●★★---beoutQ MAX HD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3782
+#EXTINF:-1,BEOUT 1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3762
+#EXTINF:-1,BEOUT 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2991
+#EXTINF:-1,BEOUT 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2992
+#EXTINF:-1,BEOUT 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2993
+#EXTINF:-1,•●★★---beoutQ MAX SD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3783
+#EXTINF:-1,BEOUT 1 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3747
+#EXTINF:-1,BEOUT 2 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3748
+#EXTINF:-1,•●★★---beoutQ MAX LOW ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3784
+#EXTINF:-1,BEOUT 1 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3785
+#EXTINF:-1,BEOUT 2 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3786
+#EXTINF:-1,•●★★---beIN MAX FULL-HD---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3761
+#EXTINF:-1,BeIN Sport Max hevc 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3763
+#EXTINF:-1,BeIN Sport Max hevc 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3764
+#EXTINF:-1,BeIN Sport Max hevc 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3765
+#EXTINF:-1,BeIN Sport Max hevc 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3766
+#EXTINF:-1,beIN.sport MAX 5 HEVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3789
+#EXTINF:-1,beIN.sport MAX 6 HEVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3790
+#EXTINF:-1,beIN SPORTS MAX1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3767
+#EXTINF:-1,beIN SPORTS MAX2 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3768
+#EXTINF:-1,beIN SPORTS MAX3 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3769
+#EXTINF:-1,beIN SPORTS MAX4 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3770
+#EXTINF:-1,BEIN. MAX 1 FHD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3771
+#EXTINF:-1,BEIN. MAX 1 HEVC S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3772
+#EXTINF:-1,BEIN. MAX 1 HD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3773
+#EXTINF:-1,BEIN. MAX 1 SD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3774
+#EXTINF:-1,BEIN. MAX 2 FHD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3775
+#EXTINF:-1,BEIN. MAX 2 HEVC S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3776
+#EXTINF:-1,BEIN. MAX 2 HD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3777
+#EXTINF:-1,BEIN. MAX 2 SD S2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3778
+#EXTINF:-1,•●★★---beIN MAX HD---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3738
+#EXTINF:-1,beIN SPORTS MAX1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3739
+#EXTINF:-1,beIN SPORTS MAX2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3741
+#EXTINF:-1,beIN SPORTS MAX3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3743
+#EXTINF:-1,beIN SPORTS MAX4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3745
+#EXTINF:-1,beIN SPORTS MAX5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3749
+#EXTINF:-1,beIN SPORTS MAX6 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3752
+#EXTINF:-1,•●★★---beIN MAX SD---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3759
+#EXTINF:-1,beIN SPORTS MAX1 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3740
+#EXTINF:-1,beIN SPORTS MAX2 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3742
+#EXTINF:-1,beIN SPORTS MAX3 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3744
+#EXTINF:-1,beIN SPORTS MAX4 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3746
+#EXTINF:-1,beIN SPORTS MAX5 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3750
+#EXTINF:-1,beIN SPORTS MAX6 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3753
+#EXTINF:-1,•●★★---beIN MAX LOW---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3760
+#EXTINF:-1,beIN SPORTS MAX1 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3755
+#EXTINF:-1,beIN SPORTS MAX2 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3756
+#EXTINF:-1,beIN SPORTS MAX3 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3757
+#EXTINF:-1,beIN SPORTS MAX4 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3758
+#EXTINF:-1,beIN SPORTS MAX5 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3751
+#EXTINF:-1,beIN SPORTS MAX6 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3754
+#EXTINF:-1,•●★★--- beout Q--★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2990
+#EXTINF:-1,BEOUT 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2994
+#EXTINF:-1,BEOUT 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2995
+#EXTINF:-1,BEOUT 6 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2996
+#EXTINF:-1,BEOUT 7 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2997
+#EXTINF:-1,BEOUT 8 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2998
+#EXTINF:-1,BEOUT 9HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2999
+#EXTINF:-1,BEOUT 10 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3000
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3220
+#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3221
+#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3222
+#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3223
+#EXTINF:-1,beIN SPORTS FullHD1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3224
+#EXTINF:-1,beIN SPORTS FullHD2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3225
+#EXTINF:-1,beIN SPORTS FullHD3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3226
+#EXTINF:-1,beIN SPORTS FullHD4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3227
+#EXTINF:-1,beIN SPORTS FullHD5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3228
+#EXTINF:-1,beIN SPORTS FullHD6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3230
+#EXTINF:-1,beIN SPORTS FullHD7
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3229
+#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3703
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/459
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/450
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/451
+#EXTINF:-1,beIN SPORTS1 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/452
+#EXTINF:-1,beIN SPORTS2 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/453
+#EXTINF:-1,beIN SPORTS3 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/454
+#EXTINF:-1,beIN SPORTS4 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/455
+#EXTINF:-1,beIN SPORTS5 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/456
+#EXTINF:-1,beIN SPORTS6 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/457
+#EXTINF:-1,beIN SPORTS7 H265
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/458
+#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/117
+#EXTINF:-1,beIN SPORTS News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2051
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/960
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3620
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3621
+#EXTINF:-1,beIN SPORTS PREMIUM1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/46
+#EXTINF:-1,beIN SPORTS PREMIUM2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/47
+#EXTINF:-1,beIN SPORTS PREMIUM3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/48
+#EXTINF:-1,beIN SPORTS 1HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/49
+#EXTINF:-1,beIN SPORTS 2HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/50
+#EXTINF:-1,beIN SPORTS 3HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/51
+#EXTINF:-1,beIN SPORTS 4HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/52
+#EXTINF:-1,beIN SPORTS 5HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/53
+#EXTINF:-1,beIN SPORTS 6HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/54
+#EXTINF:-1,beIN SPORTS 7HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/55
+#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3001
+#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3002
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2873
+#EXTINF:-1,beIN SPORTS PREMIUM1 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/56
+#EXTINF:-1,beIN SPORTS PREMIUM2 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/57
+#EXTINF:-1,beIN SPORTS PREMIUM3 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/58
+#EXTINF:-1,beIN SPORTS 1SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/59
+#EXTINF:-1,beIN SPORTS 2SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/60
+#EXTINF:-1,beIN SPORTS 3SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/93
+#EXTINF:-1,beIN SPORTS 4SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/92
+#EXTINF:-1,beIN SPORTS 5SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/91
+#EXTINF:-1,beIN SPORTS 6SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/61
+#EXTINF:-1,beIN SPORTS 7SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1459
+#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/119
+#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/62
+#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/63
+#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3791
+#EXTINF:-1,beIN SPORTS 1 LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3792
+#EXTINF:-1,beIN SPORTS 2LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2108
+#EXTINF:-1,beIN SPORTS 4LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2109
+#EXTINF:-1,beIN SPORTS 5LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2110
+#EXTINF:-1,beIN SPORTS 6LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2111
+#EXTINF:-1,beIN SPORTS 7LOW
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2112
+#EXTINF:-1,Radio Bein 1 max
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3546
+#EXTINF:-1,Radio Bein 2 max
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3547
+#EXTINF:-1,Radio Bein 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3548
+#EXTINF:-1,Radio Bein 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3549
+#EXTINF:-1,Radio Bein 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3550
+#EXTINF:-1,Radio Bein 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3551
+#EXTINF:-1,Radio Bein 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3552
+#EXTINF:-1,Radio Bein 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3553
+#EXTINF:-1,Radio Bein 7
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3554
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/21
+#EXTINF:-1,AR:  beIN Outdoor
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/13
+#EXTINF:-1,AR:  beIN AMC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/14
+#EXTINF:-1,AR: beIN  Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/15
+#EXTINF:-1,AR: beIN  Gourmet
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/16
+#EXTINF:-1,AR: beIN Jeem HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/25
+#EXTINF:-1,AR: beIN Baraeem
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2028
+#EXTINF:-1,AR :beIN_BOOMERANG
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2945
+#EXTINF:-1,AR: beIN DTX
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2946
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3276
+#EXTINF:-1,AR: beIN BOXOFFICE HD2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3706
+#EXTINF:-1,AR: beIN BOXOFFICE HD3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3709
+#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/513
+#EXTINF:-1,KAICER BOX OFFICE 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/494
+#EXTINF:-1,KAICER BOX OFFICE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/512
+#EXTINF:-1,KAICER BOX OFFICE 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/515
+#EXTINF:-1,KAICER BOX OFFICE 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/514
+#EXTINF:-1,KAICER BOX OFFICE 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/516
+#EXTINF:-1,KAICER BOX OFFICE 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2465
+#EXTINF:-1,KAICER BOX OFFICE 7
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2466
+#EXTINF:-1,KAICER BOX Hendi 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1476
+#EXTINF:-1,KAICER BOX ARAB 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1477
+#EXTINF:-1,KAICER BOX ARAB 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1478
+#EXTINF:-1,KAICER BOX ARAB 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1479
+#EXTINF:-1,KAICER BOX ARAB 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1480
+#EXTINF:-1,[NETFLIX] Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2418
+#EXTINF:-1,[NETFLIX] Thriller
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2419
+#EXTINF:-1,[NETFLIX] SCi-Fi
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2420
+#EXTINF:-1,[NETFLIX] Hendy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2421
+#EXTINF:-1,[NETFLIX] Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2422
+#EXTINF:-1,NETFLIX_Comedy+
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2505
+#EXTINF:-1,NETFLIX_SCI FI
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2506
+#EXTINF:-1,NETFLIX_HOME_CINEMA_1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2507
+#EXTINF:-1,NETFLIX N action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2463
+#EXTINF:-1,Netflex Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2116
+#EXTINF:-1,Netflix SCF FI
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2041
+#EXTINF:-1,Netflix Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2042
+#EXTINF:-1,Netflix Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2043
+#EXTINF:-1,Netflix Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2044
+#EXTINF:-1,NETFLIX  ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2047
+#EXTINF:-1,Netflix Comedy 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2346
+#EXTINF:-1,NETFLIX_DRAMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2347
+#EXTINF:-1,NETFLIX ANIMATION HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2349
+#EXTINF:-1,Netflix Horror 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2350
+#EXTINF:-1,Netflix Bollywood
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2351
+#EXTINF:-1,NETFLIX_KIDS2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2357
+#EXTINF:-1,NETFLIX_THRILLER
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2358
+#EXTINF:-1,shahid TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2464
+#EXTINF:-1,[Shahid Action]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2423
+#EXTINF:-1,[Shahid Aflam]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2424
+#EXTINF:-1,[Shahid Aflam2]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2425
+#EXTINF:-1,[Shahid HINDI]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2426
+#EXTINF:-1,[Shahid HORROR]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2427
+#EXTINF:-1,[Shahid action 2]
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2428
+#EXTINF:-1,AR:SHAHID_CARTON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3250
+#EXTINF:-1,AR:SHAHID_ACTION red
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3251
+#EXTINF:-1,AR:SHAHID_ROAP
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3252
+#EXTINF:-1,AR:SHAHID ZAMAN red
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3253
+#EXTINF:-1,AR:SHAHID CINEMA red
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3254
+#EXTINF:-1,Alkaicer Action Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2398
+#EXTINF:-1,Alkaicer B-Cinema
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2399
+#EXTINF:-1,Alkaicer Box-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2400
+#EXTINF:-1,Alkaicer Comedy-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2401
+#EXTINF:-1,Alkaicer Disney-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2402
+#EXTINF:-1,Alkaicer  Cinema_One
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2403
+#EXTINF:-1,Alkaicer Famely-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2404
+#EXTINF:-1,Alkaicer KidsCo-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2405
+#EXTINF:-1,Alkaicer MasterPiece-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2406
+#EXTINF:-1,Alkaicer Premiere-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2407
+#EXTINF:-1,Alkaicer Thriller-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2408
+#EXTINF:-1,Alkaicer W-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2409
+#EXTINF:-1,Alkaicer The-Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2410
+#EXTINF:-1,Alkaicer The-Movies2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2411
+#EXTINF:-1,TOM &JERRY LIVE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2819
+#EXTINF:-1,Tom & Jerry TV 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3656
+#EXTINF:-1,live film 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2937
+#EXTINF:-1,live film 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2936
+#EXTINF:-1,live film 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2935
+#EXTINF:-1,live film 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2934
+#EXTINF:-1,SHAHID_CARTON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2928
+#EXTINF:-1,SHAHID_ZAMAN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2929
+#EXTINF:-1,SHAHID_ROAP
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2930
+#EXTINF:-1,SHAHID_ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2931
+#EXTINF:-1,OZN_AHMEDZAKI
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2987
+#EXTINF:-1,OZN_MASRAH_MASR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3452
+#EXTINF:-1,OZN_ADELEMAM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2986
+#EXTINF:-1,OZN_ISMAIL.YASEAN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2985
+#EXTINF:-1,Majestic movies3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3009
+#EXTINF:-1,Majestic Classic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3011
+#EXTINF:-1,Majestic cinema1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3014
+#EXTINF:-1,majestic cinema2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3015
+#EXTINF:-1,AR:SONY_ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3246
+#EXTINF:-1,AR:SONY_MAX
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2976
+#EXTINF:-1,AR:SONY_NAWAEAM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2977
+#EXTINF:-1,AR:SONY_DRAMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3249
+#EXTINF:-1,fushar-action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2978
+#EXTINF:-1,AR: NETFLIX ACTION +1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3410
+#EXTINF:-1,AR: NETFLIX ANIME +1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3416
+#EXTINF:-1,AR: NETFLIX ANIME +2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3417
+#EXTINF:-1,AR: NETFLIX COMEDY +2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3422
+#EXTINF:-1,AR: Netflix Horror+
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3429
+#EXTINF:-1,AR: NETFLIX Kids +1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3436
+#EXTINF:-1,AR: Netflix KIDS +2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3437
+#EXTINF:-1,Egy Best Arabic Film
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3507
+#EXTINF:-1,HOME CINEMA 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3508
+#EXTINF:-1,HOME CINEMA 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3509
+#EXTINF:-1,HOME CINEMA 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3510
+#EXTINF:-1,HOME CINEMA 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3511
+#EXTINF:-1,HOME CINEMA 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3512
+#EXTINF:-1,HOME CINEMA 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3513
+#EXTINF:-1,Aroma Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3514
+#EXTINF:-1,Aroma Arabic Films
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3515
+#EXTINF:-1,Aroma Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3516
+#EXTINF:-1,Aroma Discovery
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3517
+#EXTINF:-1,Aroma Drama Films
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3518
+#EXTINF:-1,Aroma Masra7yat
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3519
+#EXTINF:-1,Aroma Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3520
+#EXTINF:-1,Aroma Zaman
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3521
+#EXTINF:-1,Aroma WWE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3522
+#EXTINF:-1,Box Office 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3523
+#EXTINF:-1,Box Office 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3524
+#EXTINF:-1,Box Office 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3525
+#EXTINF:-1,Box Office 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3526
+#EXTINF:-1,beOUT Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3580
+#EXTINF:-1,beOUT Arabia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3581
+#EXTINF:-1,beOUT Cinema
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3582
+#EXTINF:-1,AR: RADIO FAIROUZ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3529
+#EXTINF:-1,AR: RADIO CLASSIC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3530
+#EXTINF:-1,AR: RADIO ZAMAN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3531
+#EXTINF:-1,AR: RADIO AMR DIAB
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3532
+#EXTINF:-1,AR: RADIO GEORGE WASOUF
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3533
+#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3534
+#EXTINF:-1,AR: RADIO UMM KULTHUM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3535
+#EXTINF:-1,SHOOF MAX 1 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3536
+#EXTINF:-1,SHOOF MAX 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3537
+#EXTINF:-1,SHOOF MAX 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3538
+#EXTINF:-1,SHOOF MAX 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3539
+#EXTINF:-1,best tv movies ch
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3555
+#EXTINF:-1,Majestic Arabic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3556
+#EXTINF:-1,Majestic Cinema
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3557
+#EXTINF:-1,Majestic Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3558
+#EXTINF:-1,Mix Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3559
+#EXTINF:-1,Mix Cimena
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3560
+#EXTINF:-1,Mix Crime
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3561
+#EXTINF:-1,Mix Mystery
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3562
+#EXTINF:-1,Mix Sport Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3563
+#EXTINF:-1,Dragon Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3564
+#EXTINF:-1,Dragon Fantasia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3565
+#EXTINF:-1,Dragon Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3566
+#EXTINF:-1,Dragon Western
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3567
+#EXTINF:-1,Dragon Classic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3568
+#EXTINF:-1,Amazon Prime WAR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3569
+#EXTINF:-1,Amazon Prime Thriller
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3570
+#EXTINF:-1,Amazon Prime KIDS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3571
+#EXTINF:-1,Amazon Prime Adventure
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3572
+#EXTINF:-1,Amazon Prime Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3573
+#EXTINF:-1,iflix Arabia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3574
+#EXTINF:-1,iflix Turk
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3575
+#EXTINF:-1,iflix Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3576
+#EXTINF:-1,iflix Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3577
+#EXTINF:-1,iflix moudablaj
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3578
+#EXTINF:-1,iflix Prime
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3579
+#EXTINF:-1,Masr7 Masr (مسرح مصر)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3583
+#EXTINF:-1,Scare tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3585
+#EXTINF:-1,ShowTime1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3586
+#EXTINF:-1,showTime2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3587
+#EXTINF:-1,sarhan ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3590
+#EXTINF:-1,sarhan CLASSIC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3591
+#EXTINF:-1,ON Asia HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3592
+#EXTINF:-1,ON Horror HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3593
+#EXTINF:-1,ON Series HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3594
+#EXTINF:-1,ON comedy HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3595
+#EXTINF:-1,ON Docunentary HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3596
+#EXTINF:-1,ON LOVEH HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3597
+#EXTINF:-1,ON Turkey HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3598
+#EXTINF:-1,ON Arabic HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3599
+#EXTINF:-1,ON 2K Cinema HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3600
+#EXTINF:-1,ON Cartoon Zaman HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3601
+#EXTINF:-1,ON SCIFI HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3602
+#EXTINF:-1,ON Movies HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3603
+#EXTINF:-1,HULU Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3695
+#EXTINF:-1,HUlu Box-office
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3696
+#EXTINF:-1,Hulu Arabia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3697
+#EXTINF:-1,Hulu Bollywood
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3698
+#EXTINF:-1,AR: NETFLIX ENGLISH 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3713
+#EXTINF:-1,AR: NETFLIX ENGLISH 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3714
+#EXTINF:-1,AR: NETFLIX FRENCH 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3715
+#EXTINF:-1,AR: NETFLIX FRENCH 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3716
+#EXTINF:-1,AR: NETFLIX FRENCH 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3717
+#EXTINF:-1,AR: NETFLIX ARABIC 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3718
+#EXTINF:-1,AR: NETFLIX ARABIC 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3719
+#EXTINF:-1,AR: NETFLIX TURCKISH
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3720
+#EXTINF:-1,AR: NETFLIX TURCKISH 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3721
+#EXTINF:-1,AR: NETFLIX SPANISH
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3722
+#EXTINF:-1,AR: NETFLIX SPANISH 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3723
+#EXTINF:-1,AR: NETFLIX INDIAN  2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3724
+#EXTINF:-1,AR: NETFLIX INDIAN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3725
+#EXTINF:-1,AR: NETFLIX DISNEY 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3726
+#EXTINF:-1,AR: SKY FLIX ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3727
+#EXTINF:-1,AR: SKY FLIX AFLAM 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3728
+#EXTINF:-1,AR: SKY FLIX AFLAM 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3729
+#EXTINF:-1,AR: SKY FLIX DRAMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3730
+#EXTINF:-1,AR: SKY FLIX COMEDY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3731
+#EXTINF:-1,AR: SKY FLIX HORROR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3732
+#EXTINF:-1,AR: SKY FLIX BOX OFFICE 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3733
+#EXTINF:-1,AR: SKY FLIX BOXOFFICE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3734
+#EXTINF:-1,AR: SKY FLIX BOLLYWOODY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3735
+#EXTINF:-1,AR: SKY FLIX ANIME 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3736
+#EXTINF:-1,SKYFLIX 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3691
+#EXTINF:-1,SKYFLIX 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3692
+#EXTINF:-1,SKYFLIX 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3693
+#EXTINF:-1,SKYFLIX 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3694
+#EXTINF:-1,•●★★--- ART Channels ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/122
+#EXTINF:-1,AR: ART Aflam 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/997
+#EXTINF:-1,AR: ART Aflam  2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/102
+#EXTINF:-1,AR: ART Cinema
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/103
+#EXTINF:-1,AR: ART Hekayat 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/104
+#EXTINF:-1,AR: ART Hekayat 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/105
+#EXTINF:-1,•●★★--- OSN HD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/124
+#EXTINF:-1,OSN YAHALA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/156
+#EXTINF:-1,OSN Ya Hala Cinema
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/161
+#EXTINF:-1,OSN:  AL YAWM HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2828
+#EXTINF:-1,OSN:  Alfa Fann
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2830
+#EXTINF:-1,OSN :MIX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3542
+#EXTINF:-1,OSN :POP UP HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3543
+#EXTINF:-1,OSN Star Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/159
+#EXTINF:-1,OSN Star World 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/160
+#EXTINF:-1,OSN: Star-Gold-HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3707
+#EXTINF:-1,OSN: E
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3284
+#EXTINF:-1,[OSN]  Planet Earth
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/968
+#EXTINF:-1,AR: OSN PLAY TRILLER HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/84
+#EXTINF:-1,OSN:  Snaiper Anime
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2172
+#EXTINF:-1, OSN Series HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3704
+#EXTINF:-1,AR: OSN SERIES FIRST HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/89
+#EXTINF:-1,[OSN] Mezze
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/975
+#EXTINF:-1,[OSN] OSN Boxoffice1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/973
+#EXTINF:-1,OSN OSN MOVIES BOX OFFICE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/971
+#EXTINF:-1, OSN MOVIES BOX OFFICE 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/981
+#EXTINF:-1,OSN Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/155
+#EXTINF:-1,[OSN] OSN Movies First
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/980
+#EXTINF:-1,[OSN] OSN PLAY TRILLER HD 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/977
+#EXTINF:-1,[OSN] FX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2826
+#EXTINF:-1,[OSN] OSN Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/976
+#EXTINF:-1,[OSN] OSN PLAY PREMIERE 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/964
+#EXTINF:-1,[OSN] Movies firest
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2825
+#EXTINF:-1,[OSN] OSN Discovery H
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/969
+#EXTINF:-1,OSN: OSN BBC earth
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2831
+#EXTINF:-1,[OSN] OSN TRACE URBAN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/966
+#EXTINF:-1,[OSN] OSN Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/965
+#EXTINF:-1,OSN History Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/167
+#EXTINF:-1,OSN H2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3705
+#EXTINF:-1,OSN Discovery Science 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/168
+#EXTINF:-1,OSN Series First 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/170
+#EXTINF:-1,OSN Movies Disney
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/171
+#EXTINF:-1, OSN: Disney Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/667
+#EXTINF:-1,OSN Disny Junior
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/162
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2832
+#EXTINF:-1,OSN: NICKELODEON HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3541
+#EXTINF:-1,OSN Movies +2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/153
+#EXTINF:-1,OSN Disney XD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2543
+#EXTINF:-1,[OSN] Alfa Mosalsalat
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/995
+#EXTINF:-1,AR: OSN Star Movies SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/90
+#EXTINF:-1,OSN : ID
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/154
+#EXTINF:-1,OSN Nat Geo
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/157
+#EXTINF:-1,OSN Nat Geo Pepole
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/158
+#EXTINF:-1,OSN E
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/164
+#EXTINF:-1,OSN Discovery 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/165
+#EXTINF:-1,OSN  Movies First  
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/175
+#EXTINF:-1,OSN: Movies First  ++2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/738
+#EXTINF:-1,[OSN] Movies Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/963
+#EXTINF:-1,[OSN] wwe
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/994
+#EXTINF:-1,[OSN] Food
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/993
+#EXTINF:-1,[OSN] Alfa Cinema 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/991
+#EXTINF:-1,[OSN] Alfa Cinema 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/992
+#EXTINF:-1,[OSN] SYFY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/990
+#EXTINF:-1,[OSN] OSN Ya Hala Aloula
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/988
+#EXTINF:-1,[OSN] : enigma
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/987
+#EXTINF:-1,[OSN] OSN Animal Planet
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/962
+#EXTINF:-1,[OSN] OSN Nat Geo Abudhabi
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/983
+#EXTINF:-1,[OSN] OSN Nat Geo Wild
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/982
+#EXTINF:-1,[OSN] nickToons
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/979
+#EXTINF:-1,[OSN] OSN ON DEMANDE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/974
+#EXTINF:-1,OSN: Nickelodeon HD AR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2829
+#EXTINF:-1,AR: OSN Nat Geo SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/85
+#EXTINF:-1,AR: OSN Alyoum
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/86
+#EXTINF:-1,AR: OSN Nat Geo pepole 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/88
+#EXTINF:-1,•●★★--- MBC HD ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/125
+#EXTINF:-1,MYHD: MBC 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/845
+#EXTINF:-1,MYHD: MBC 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/846
+#EXTINF:-1,MYHD: MBC 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/847
+#EXTINF:-1,MYHD: MBC 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/848
+#EXTINF:-1,MYHD: MBC 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2114
+#EXTINF:-1,MYHD: MBC Bollywood HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/849
+#EXTINF:-1,MYHD: MBC Massr HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/850
+#EXTINF:-1,MYHD: MBC Masr 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/851
+#EXTINF:-1,MYHD: MBC Drama HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/852
+#EXTINF:-1,MYHD: MBC Action HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/853
+#EXTINF:-1,MYHD: MBC Max HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/854
+#EXTINF:-1,MYHD: MBC Iraq HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/855
+#EXTINF:-1,MYHD: MBC Drama+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/856
+#EXTINF:-1,MYHD: MBC+Variety HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/857
+#EXTINF:-1,AR: MBC FM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3737
+#EXTINF:-1,MYHD: FOX Rewayat HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/859
+#EXTINF:-1,MYHD: FOX Life HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/860
+#EXTINF:-1,MYHD: Family Movies HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/861
+#EXTINF:-1,MYHD: FOX Crime HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/862
+#EXTINF:-1,MYHD: Fox Action
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/863
+#EXTINF:-1,MYHD: Film box
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/864
+#EXTINF:-1,MYHD: Docu Box HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/865
+#EXTINF:-1,MYHD: Fight Box HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/866
+#EXTINF:-1,MYHD: Fox Movies
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/867
+#EXTINF:-1,MYHD: Planet Earth HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/869
+#EXTINF:-1,MYHD: Discovery SC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/871
+#EXTINF:-1,MYHD: Gulli Arabic HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/872
+#EXTINF:-1,MYHD: Duck TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/874
+#EXTINF:-1,MBC_1 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2771
+#EXTINF:-1,MBC_2 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2772
+#EXTINF:-1,MBC_3 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2773
+#EXTINF:-1,MBC_4 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2774
+#EXTINF:-1,,MBC_5 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2775
+#EXTINF:-1,MBC_MAX sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2776
+#EXTINF:-1,MBC_ACTION sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2777
+#EXTINF:-1,MBC_DRAMA sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2778
+#EXTINF:-1,MBC_MASR sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2779
+#EXTINF:-1,MBC_MASR 2 sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2780
+#EXTINF:-1,MBC_FM_PANORAMA sd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2781
+#EXTINF:-1,•●★★--- KIDS ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1009
+#EXTINF:-1,AR: Semsem
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1010
+#EXTINF:-1,AR: Cartoon Network
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1011
+#EXTINF:-1,AR: PBS Kids 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1012
+#EXTINF:-1,AR: Al Mickey Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1013
+#EXTINF:-1,AR: KARAMEESH
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1014
+#EXTINF:-1,AR: Kooky
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1015
+#EXTINF:-1,AR: Toyor Al Ganna
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1020
+#EXTINF:-1,AR: Maged
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1019
+#EXTINF:-1,AR: Spacetoon
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1017
+#EXTINF:-1,AR: PBs Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1016
+#EXTINF:-1,•●★★--- NEWS ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/998
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/999
+#EXTINF:-1,AR: Al Jazeera Documentry
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1000
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3208
+#EXTINF:-1,AR: AlJazeera-English
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3209
+#EXTINF:-1,AR: AlJazeera Eng
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3210
+#EXTINF:-1,AR: Al Jazeera FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1003
+#EXTINF:-1,AR: Al ALArabiya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1001
+#EXTINF:-1,AR: Al ALArabiya Alhadaath
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1002
+#EXTINF:-1,AR: BBC Arabic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1005
+#EXTINF:-1,AR: RT News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1008
+#EXTINF:-1,AR: Sky News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1007
+#EXTINF:-1,AR: TRT-ELARABIYE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1006
+#EXTINF:-1,AR: RT Arabic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1004
+#EXTINF:-1, AR: FR 24 arabic HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3206
+#EXTINF:-1,AR: DW Arabic
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3207
+#EXTINF:-1,AR:  Alhurra
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3211
+#EXTINF:-1,CNN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3212
+#EXTINF:-1,France 24 (En Francais)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3213
+#EXTINF:-1,AR:Houra News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3214
+#EXTINF:-1,•●★★--- Rotana ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/176
+#EXTINF:-1,AR:Rotana Cinema 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/106
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/107
+#EXTINF:-1,AR:Rotana Aflam
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/108
+#EXTINF:-1,AR: Rotana  Comedy 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/109
+#EXTINF:-1,AR: Rotana Classic 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/110
+#EXTINF:-1,AR: Rotana Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3215
+#EXTINF:-1,AR: Rotana Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3216
+#EXTINF:-1,AR: Rotana Clip
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3217
+#EXTINF:-1,AR: Rotana Kids HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3469
+#EXTINF:-1,AR: Rotana Khaliji
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3218
+#EXTINF:-1,•●★★--- Egypt ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/511
+#EXTINF:-1,AR: ON Time Sport 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2397
+#EXTINF:-1,AR: ON Time Sport 1HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/507
+#EXTINF:-1,AR: ON Time Sport 2 SD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2396
+#EXTINF:-1,AR: ON Time Sport 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/949
+#EXTINF:-1,AR: Time Sport
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/951
+#EXTINF:-1,AR: Alahly
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/952
+#EXTINF:-1,AR: Zamalek TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2068
+#EXTINF:-1,AR: :Al Oula
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3655
+#EXTINF:-1,AR: Mksaby
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3458
+#EXTINF:-1,AR:  Sada Elbabad
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/495
+#EXTINF:-1,AR:  Nile Sport
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/496
+#EXTINF:-1,AR:  Nile Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/497
+#EXTINF:-1,AR: Nile News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/498
+#EXTINF:-1,AR: D Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/499
+#EXTINF:-1,AR:CBC Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/500
+#EXTINF:-1,AR:CBC Sofra
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/501
+#EXTINF:-1,AR:CBC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/502
+#EXTINF:-1,AR:DMC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/503
+#EXTINF:-1,AR:Alnahar
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/504
+#EXTINF:-1,AR: ALnahar Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/505
+#EXTINF:-1,AR: ON Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/506
+#EXTINF:-1,AR: ON E
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/508
+#EXTINF:-1,AR: Alhayah
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/509
+#EXTINF:-1,AR:  Maspero-Zaman
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/950
+#EXTINF:-1,AR: Mehwar
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/510
+#EXTINF:-1,AR : Zee Alwan
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3308
+#EXTINF:-1,AR : ZEE AFLAM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3309
+#EXTINF:-1,•●★★--- SUDAN ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3158
+#EXTINF:-1,AR: SUDAN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3142
+#EXTINF:-1,AR: Sudan AlIstijaba
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3143
+#EXTINF:-1,AR: Sudan Ashorooq
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3144
+#EXTINF:-1,AR: Sudan BlueNile
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3145
+#EXTINF:-1,AR: Sudan Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3146
+#EXTINF:-1,AR: Sudan Jazeera_Green
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3147
+#EXTINF:-1,AR: Sudan Kassala
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3148
+#EXTINF:-1,AR: Sudan Khartoum
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3149
+#EXTINF:-1,AR: Sudan Knowledge
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3150
+#EXTINF:-1,AR: Sudan Monwaat
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3151
+#EXTINF:-1,AR: Sudan Music
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3152
+#EXTINF:-1,AR: Sudan OmDorman
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3153
+#EXTINF:-1,AR: Sudan Sport HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3155
+#EXTINF:-1,AR: Sudan Tybah
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3156
+#EXTINF:-1,AR: Sudania 24
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3157
+#EXTINF:-1,•●★★--- PALESTINE ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/493
+#EXTINF:-1,AR:  Sport HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2841
+#EXTINF:-1,AR: betlahem 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2843
+#EXTINF:-1,AR: Betlahem 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2842
+#EXTINF:-1,AR: FajerTV1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/584
+#EXTINF:-1,AR: FajerTV2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/587
+#EXTINF:-1,AR: palastine  live
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/590
+#EXTINF:-1,AR: FajerTV 1 1080
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/593
+#EXTINF:-1,AR: radio marah
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/596
+#EXTINF:-1,AR: Raya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/481
+#EXTINF:-1,AR: Ajyal
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/482
+#EXTINF:-1,Al nagah
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/483
+#EXTINF:-1,AR: Palastine Sport 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3314
+#EXTINF:-1,AR: Kofeya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3315
+#EXTINF:-1,AR: HalowTV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3316
+#EXTINF:-1,AR: Palstine Today
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/486
+#EXTINF:-1,AR: Aqsa tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2944
+#EXTINF:-1,AR: nablus live
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3045
+#EXTINF:-1,AR: You sat
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/448
+#EXTINF:-1,AR: Fajr 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/449
+#EXTINF:-1,•●★★--- JORDAN ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3116
+#EXTINF:-1,AR: Jordan Almamlaka
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3117
+#EXTINF:-1,AR: Jordan Amman
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3119
+#EXTINF:-1,AR: Jordan Nart
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3120
+#EXTINF:-1,AR: Jordan Noor
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3121
+#EXTINF:-1,AR: Jordan Ro2ya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3122
+#EXTINF:-1,AR: JORDAN SPORTS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3123
+#EXTINF:-1,AR: Jordan Today
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3124
+#EXTINF:-1,AR: JORDAN TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3125
+#EXTINF:-1,AR: Jordan Yarmouk
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3126
+#EXTINF:-1,AR: Jordan Zweina
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3127
+#EXTINF:-1,•●★★--- LIBYA ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3141
+#EXTINF:-1,[LIB] Libya Sport Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3455
+#EXTINF:-1,AR: Libya Sport 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3652
+#EXTINF:-1,AR: LIBYA 218 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3128
+#EXTINF:-1,AR: Libya 218 News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3129
+#EXTINF:-1,AR: Libya AlAhrar
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3130
+#EXTINF:-1,AR: Libya Alhadath
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3131
+#EXTINF:-1,AR: Libya Almarsad
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3132
+#EXTINF:-1,AR: Libya Alwatanya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3133
+#EXTINF:-1,AR: Libya elwatan
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3134
+#EXTINF:-1,AR: Libya 218 News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3135
+#EXTINF:-1,AR: LIBYA WTV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3136
+#EXTINF:-1,AR: Libya Panorama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3137
+#EXTINF:-1,AR: Libya Tanasuh
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3138
+#EXTINF:-1,AR: Libya Waad
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3139
+#EXTINF:-1,AR: Libyas Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3140
+#EXTINF:-1,•●★★--- MAROC ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/725
+#EXTINF:-1, MA:ALOULA INT 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/726
+#EXTINF:-1, MA:ALMAGHRIBIA 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/727
+#EXTINF:-1, MA:2M 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/728
+#EXTINF:-1, MA: CHADA TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/729
+#EXTINF:-1, MA:ASSADISA 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/730
+#EXTINF:-1, MA: telemaroc 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/733
+#EXTINF:-1, MA:ARRIADIA 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/731
+#EXTINF:-1, MA:MEDI1 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/732
+#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/734
+#EXTINF:-1, MA:TELE MAROC 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/735
+#EXTINF:-1, MA:TAMAZIGHT 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/736
+#EXTINF:-1,AR: Arriadia FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3105
+#EXTINF:-1,AR: Arriadia HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3106
+#EXTINF:-1,AR: Alrrabia FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3107
+#EXTINF:-1,AR: Alrrabia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3108
+#EXTINF:-1,AR: AL MAGHRIBIA FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3109
+#EXTINF:-1,AR: AL MAGHRIBIA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3110
+#EXTINF:-1,AR: Assadissa FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3111
+#EXTINF:-1,AR: Assadissa
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3112
+#EXTINF:-1,AR: Assabiaa FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3113
+#EXTINF:-1,AR: Tamazight HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3114
+#EXTINF:-1,AR: Medi1 Afrique FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3115
+#EXTINF:-1,•●★★--- TUNISIA ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/889
+#EXTINF:-1,TN:WATANIA1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/890
+#EXTINF:-1,TN:WATANIA2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/891
+#EXTINF:-1,TN:ELHIWAR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/892
+#EXTINF:-1,TN:NESSMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/893
+#EXTINF:-1,Tunisia Carthage
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2541
+#EXTINF:-1,TN:HANNIBAL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/894
+#EXTINF:-1,TN:ATTESIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/895
+#EXTINF:-1,TN:MTUNISIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/896
+#EXTINF:-1,TN:TELEVISION1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/903
+#EXTINF:-1,TN:SAHELTV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/905
+#EXTINF:-1,TN:ALMOSTKELLA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/902
+#EXTINF:-1,TN:ALINSEN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/901
+#EXTINF:-1,TN:ZAYTOUNA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/900
+#EXTINF:-1,TN:TELVZATV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/899
+#EXTINF:-1,TN:JANOUBIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/898
+#EXTINF:-1,TN:TOUNESNA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/897
+#EXTINF:-1,•●★★--- ALGERIA ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/906
+#EXTINF:-1,Algerian:CANAL ALGERIE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/907
+#EXTINF:-1,Algerian:ALGERIE3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/908
+#EXTINF:-1,Algerian:Fajr
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/909
+#EXTINF:-1,Algerian:ECHOUROUK
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/911
+#EXTINF:-1,Algerian:DJAZAIRIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/910
+#EXTINF:-1,Algerian:Echorouk BENNA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/912
+#EXTINF:-1,Algerian:Dzair 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/913
+#EXTINF:-1,Algerian:SAMIRA TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/915
+#EXTINF:-1,Algerian:ENTV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/917
+#EXTINF:-1,Algerian:Bahia Tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/946
+#EXTINF:-1,Algerian:TV BERBERE HD*
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/945
+#EXTINF:-1,Algerian:BEUR TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/918
+#EXTINF:-1,Algerian:ALHADEF
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/919
+#EXTINF:-1,AL MAGHRIBIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/943
+#EXTINF:-1,Algerian:CHAMS TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/940
+#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/941
+#EXTINF:-1,Algerian:ELHAYA-ALGERIE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/938
+#EXTINF:-1,Algerian: Al adjwaa
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/934
+#EXTINF:-1,Algerian: ENNAHAR TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/935
+#EXTINF:-1,Algerian:Awrass  TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/932
+#EXTINF:-1,Algerian: El-Heddaf.TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/933
+#EXTINF:-1,Algerian: BAHIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/931
+#EXTINF:-1,Algerian: Samira
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/927
+#EXTINF:-1,Algerian:ENNAHAR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/924
+#EXTINF:-1,Algerian:Numidia--TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/922
+#EXTINF:-1,Algerian:ECHOUROUK News TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/923
+#EXTINF:-1,Algerian-ELBILAD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/926
+#EXTINF:-1,Algerian:Algeria-DZAIR 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/925
+#EXTINF:-1,Algerian: ALGERIE3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/928
+#EXTINF:-1,Algerian: ALGERIE4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/929
+#EXTINF:-1,Algerian: ALGERIE5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/930
+#EXTINF:-1,•●★★--- SYRIA --★★●• 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1999
+#EXTINF:-1,SY: SYRIA. ALOULA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2000
+#EXTINF:-1,SY: SYRIA.DRAMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2001
+#EXTINF:-1,Syr-Sama-TV+
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2002
+#EXTINF:-1,SY: LANA Tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2003
+#EXTINF:-1,SY: Sama.alsham
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2013
+#EXTINF:-1,SY: SYRIA-TV2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2005
+#EXTINF:-1,SY: NOUREL SHAM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2012
+#EXTINF:-1,SY: Halab-Today
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2011
+#EXTINF:-1,SY: Al.KhabarTV HD*
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2010
+#EXTINF:-1,SY: all tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2007
+#EXTINF:-1,SY:  LANA Tv HD*
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2009
+#EXTINF:-1,SY: Syria Satellite Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2004
+#EXTINF:-1,SY: Syria alyoum
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2008
+#EXTINF:-1,SY: SYRIA.ALIKHBARIA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2006
+#EXTINF:-1,==== IRAQ =====
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3075
+#EXTINF:-1,AR: AL HURRA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3076
+#EXTINF:-1,AR:Al Iraqiya
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3079
+#EXTINF:-1,AR:Al Iraqiya News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3080
+#EXTINF:-1,AR:Al Al Rafidain
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3081
+#EXTINF:-1,AR:Al Sharqiya News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3083
+#EXTINF:-1,AR: Assyrian ANB
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3084
+#EXTINF:-1,AR:Babylon TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3085
+#EXTINF:-1,AR: News Dijlah
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3086
+#EXTINF:-1,AR:Dijlah Tarab
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3087
+#EXTINF:-1,AR:KurdMax
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3088
+#EXTINF:-1,AR:Kurdistan TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3089
+#EXTINF:-1,AR Rudaw TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3091
+#EXTINF:-1,•●★★--- Lebanon ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3043
+#EXTINF:-1,LBC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3025
+#EXTINF:-1,LBCI.International
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3026
+#EXTINF:-1,LDC LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3027
+#EXTINF:-1,LEBANON TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3028
+#EXTINF:-1,MTV LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3029
+#EXTINF:-1,HAWACOM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3030
+#EXTINF:-1,FUTURE LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3031
+#EXTINF:-1,NBN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3032
+#EXTINF:-1,AL MAYADEEN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3033
+#EXTINF:-1,AL MANAR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3034
+#EXTINF:-1,AGHANI AGHANI
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3035
+#EXTINF:-1,NOURSAT LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3036
+#EXTINF:-1,NOUR AL SHAM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3037
+#EXTINF:-1,AL JADEED LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3038
+#EXTINF:-1,AL EKHBARIYA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3039
+#EXTINF:-1,OTV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3040
+#EXTINF:-1,CHARITY TV LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3041
+#EXTINF:-1,ARABICA MUSIC LEBANON
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3042
+#EXTINF:-1,•●★★--- World  ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/123
+#EXTINF:-1,Smart Sport ((كاس الاتحاد الاسيوي))
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3779
+#EXTINF:-1,AR: AD Sport 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/112
+#EXTINF:-1,AR: AD Sport 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/113
+#EXTINF:-1,AR: AD Sport 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/114
+#EXTINF:-1,AR: AD Sport 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/115
+#EXTINF:-1,AR: KSA Sports 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2053
+#EXTINF:-1,AR: KSA Sports 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2054
+#EXTINF:-1,AR: KSA SPORTS 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2055
+#EXTINF:-1,AR: ksa Sport 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2056
+#EXTINF:-1,AR: Sharjah Sports TV FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3233
+#EXTINF:-1,AR: Alkass 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1461
+#EXTINF:-1,AR: Alkass 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1462
+#EXTINF:-1,AR: Alkass 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1463
+#EXTINF:-1,AR: Alkass 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1464
+#EXTINF:-1,IR: Varzesh
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2113
+#EXTINF:-1,Arena Sport 2 (Serb)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1466
+#EXTINF:-1,Arena Sport 3 (Serb
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1467
+#EXTINF:-1,Arena Sport 4 (Serb
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1468
+#EXTINF:-1,Arena Sport 5 (Serb)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1469
+#EXTINF:-1,Arena Sport 1 (Serb)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1465
+#EXTINF:-1,PT: Sport TV 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2165
+#EXTINF:-1,PT: Sport TV 1 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2166
+#EXTINF:-1,PT: Sport TV 2 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2167
+#EXTINF:-1,PT: Sport TV 3 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2168
+#EXTINF:-1,PT: Sport TV 4 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2169
+#EXTINF:-1,PT:  Sport TV 5 HD 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2170
+#EXTINF:-1,MATCH 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2837
+#EXTINF:-1,TRT Sport HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2839
+#EXTINF:-1,RAI 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2836
+#EXTINF:-1,BT SPORT 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2840
+#EXTINF:-1,[SPO*] SuperSport 01
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3060
+#EXTINF:-1,[SPO*] SuperSport 02
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3061
+#EXTINF:-1,[SPO*] SuperSport 03
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3062
+#EXTINF:-1,[SPO*] SuperSport 04
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3064
+#EXTINF:-1,[SPO*] SuperSport 05
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3063
+#EXTINF:-1,[SPO*] SuperSport 06
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3065
+#EXTINF:-1,[SPO*] SuperSport 07
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3066
+#EXTINF:-1,[SPO*] SuperSport 08
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3067
+#EXTINF:-1,[SPO*] SuperSport 09
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3068
+#EXTINF:-1,[SPO*] SuperSport 10
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3069
+#EXTINF:-1,[SPO*] SuperSport 11
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3070
+#EXTINF:-1,[SPO*] SuperSport 12
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3071
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3072
+#EXTINF:-1,ARGENTINA: TYC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3073
+#EXTINF:-1,ARGENTINA: FOX SPORTS PREMIUM
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3074
+#EXTINF:-1,POL: CANAL_SPORT
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3159
+#EXTINF:-1,AL: TRING_SPORT_1HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3169
+#EXTINF:-1,AL: TRING_SPORT_2HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3170
+#EXTINF:-1,AL: TRING_SPORT_3HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3171
+#EXTINF:-1,AL: TRING_SPORT_4HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3172
+#EXTINF:-1,AL:SUPER SPORT 1 NEWS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3173
+#EXTINF:-1,AL:SUPER SPORT 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3174
+#EXTINF:-1,AL:SUPER SPORT 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3175
+#EXTINF:-1,AL:SUPER SPORT 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3176
+#EXTINF:-1,AL: EXPLORER_NATYRA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3177
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3279
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3280
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3281
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3282
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3283
+#EXTINF:-1,NL:Ziggo Sport Voetbal 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3544
+#EXTINF:-1,NL:Ziggo Sport Select HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3545
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3445
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3446
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3447
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3448
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3449
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3450
+#EXTINF:-1,ZDF HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3460
+#EXTINF:-1,20 Mediaset
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3461
+#EXTINF:-1,Italia 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3462
+#EXTINF:-1,•●★★--- France ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/478
+#EXTINF:-1,|FR| CANAL FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1022
+#EXTINF:-1,|FR| CANAL CINEMA FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1023
+#EXTINF:-1,|FR| CANAL DECALE FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1024
+#EXTINF:-1,|FR| CANAL SERIES FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1026
+#EXTINF:-1,|FR| CANAL FAMILY FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1025
+#EXTINF:-1,|FR| CANAL SPORT FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1027
+#EXTINF:-1,|FR| CINE+ CLASSIC FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1028
+#EXTINF:-1,|FR| CINE+ CLUB FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1029
+#EXTINF:-1,|FR| CINE+ EMOTION FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1030
+#EXTINF:-1,|FR| CINE+ FAMIZ FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1031
+#EXTINF:-1,|FR| CINE+ FRISSON FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1032
+#EXTINF:-1,|FR| CINE+ ¨POLAR FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1033
+#EXTINF:-1,|FR| CINE+ PREMIER FIHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1034
+#EXTINF:-1,|FR| TF1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1035
+#EXTINF:-1,|FR| TF1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1036
+#EXTINF:-1,|FR| M6 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1037
+#EXTINF:-1,|FR| M6 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1038
+#EXTINF:-1,|FR| W9 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1039
+#EXTINF:-1,|FR| ARTE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1041
+#EXTINF:-1,|FR| RMC STORY FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1042
+#EXTINF:-1,|FR| FRANCE O HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1044
+#EXTINF:-1,|FR| FRANCE 2  FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1045
+#EXTINF:-1,|FR| RMC STORY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1043
+#EXTINF:-1,|FR| W9 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1040
+#EXTINF:-1,|FR| FRANCE 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1046
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1047
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1048
+#EXTINF:-1,|FR| FRANCE 4 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1049
+#EXTINF:-1,|FR| FRANCE 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1050
+#EXTINF:-1,|FR| FRANCE 5 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1051
+#EXTINF:-1,|FR| FRANCE 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1052
+#EXTINF:-1,|FR| TFX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1053
+#EXTINF:-1,|FR| CNEWS FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1055
+#EXTINF:-1,|FR| BFM TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1056
+#EXTINF:-1,|FR| TMC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1054
+#EXTINF:-1,|FR| EURONEWS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1057
+#EXTINF:-1,|FR| FRANCE 24
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1058
+#EXTINF:-1,|FR| TV5 MONDE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1059
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1073
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1074
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1075
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1076
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1077
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1078
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1079
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1080
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1081
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1083
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1084
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1085
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1086
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1082
+#EXTINF:-1,|FR| EXTREME SPORT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1087
+#EXTINF:-1,|FR| EUROSPORT 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1088
+#EXTINF:-1,|FR| EUROSPORT 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1089
+#EXTINF:-1,|FR| FOOT+ 24/24
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1090
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1091
+#EXTINF:-1,|FR| GOLF+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1092
+#EXTINF:-1,|FR| OL TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1093
+#EXTINF:-1,|FR| INFOSPORT+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1094
+#EXTINF:-1,|FR| RMC NEWS SPORT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1095
+#EXTINF:-1,|FR| EQUIDIA LIVE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1096
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1097
+#EXTINF:-1,|FR| AUTO MOTO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1098
+#EXTINF:-1,|FR| KOMBAT SPORT
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1099
+#EXTINF:-1,|FR| CANAL+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1100
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1101
+#EXTINF:-1,|FR| CANAL+  CINEMA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1102
+#EXTINF:-1,|FR| CANAL+ SERIE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1104
+#EXTINF:-1,|FR| CANAL+ SERIES HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1103
+#EXTINF:-1,|FR| CANAL+  FAMILY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1105
+#EXTINF:-1,|FR| CANAL+  FAMILY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1106
+#EXTINF:-1,|FR| CANAL+  DECALE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1107
+#EXTINF:-1,|FR| CANAL+  DECALE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1108
+#EXTINF:-1,|FR| CANAL+  SPORT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1109
+#EXTINF:-1,|FR| OCS MAX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1110
+#EXTINF:-1,|FR| OCS GEANT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1111
+#EXTINF:-1,|FR| OCS CITY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1113
+#EXTINF:-1,|FR| CINE+  PREMIER
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1114
+#EXTINF:-1,|FR| CINE+  PREMIER HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1115
+#EXTINF:-1,|FR| OCS CHOC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1112
+#EXTINF:-1,|FR| CINE+  FRISSON HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1116
+#EXTINF:-1,|FR| CINE+  FAMIZ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1117
+#EXTINF:-1,|FR| CINE+  EMOTION HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1118
+#EXTINF:-1,|FR| CINE CLASSIC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1119
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1120
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1121
+#EXTINF:-1,|FR| MB LIVE TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1122
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1123
+#EXTINF:-1,|FR| TCM CINEMA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1124
+#EXTINF:-1,|FR| ACTION HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1125
+#EXTINF:-1,|FR| E! HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1126
+#EXTINF:-1,|FR| BET HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1127
+#EXTINF:-1,|FR| COMEDIE+ FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1129
+#EXTINF:-1,|FR| COMEDIE+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1130
+#EXTINF:-1,|FR| MCM HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1128
+#EXTINF:-1,|FR| SYFY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1131
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1132
+#EXTINF:-1,|FR| TV BREIZH FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1133
+#EXTINF:-1,|FR| TV BREIZH HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1134
+#EXTINF:-1,|FR| RTL9 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1135
+#EXTINF:-1,|FR| TEVA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1136
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1137
+#EXTINF:-1,|FR| 13EME RUE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1138
+#EXTINF:-1,|FR| AB1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1140
+#EXTINF:-1,|FR| AB1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1141
+#EXTINF:-1,|FR| AB3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1142
+#EXTINF:-1,|FR| MTV FRANCE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1139
+#EXTINF:-1,|FR| J ONE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1143
+#EXTINF:-1,|FR| GAME ONE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1144
+#EXTINF:-1,|FR| CHERIE25 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1145
+#EXTINF:-1,|FR| NRJ12 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1146
+#EXTINF:-1,|FR| RTS UN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1147
+#EXTINF:-1,|FR| RTS  DEUX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1148
+#EXTINF:-1,|FR| 6TER HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1149
+#EXTINF:-1,|FR| HD1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1150
+#EXTINF:-1,|FR| HD1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1151
+#EXTINF:-1,|FR| CSTAR FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1153
+#EXTINF:-1,|FR| CSTAR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1154
+#EXTINF:-1,|FR| TOONAMI  FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1155
+#EXTINF:-1,|FR| TOONAMI  HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1156
+#EXTINF:-1,|FR| CARTOON NETWORK FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1157
+#EXTINF:-1,|FR| C8 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1152
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1158
+#EXTINF:-1,|FR| TELETOON+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1159
+#EXTINF:-1,|FR| ZOUZOU TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1160
+#EXTINF:-1,|FR| NICKELODEON JR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1161
+#EXTINF:-1,|FR| NICKELODEON HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1162
+#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1163
+#EXTINF:-1,|FR| DISNEY CINEMA  FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1164
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1165
+#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1166
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1167
+#EXTINF:-1,|FR| DISNEY XD FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1168
+#EXTINF:-1,|FR| DISNEY XD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1169
+#EXTINF:-1,|FR| PIWI HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1170
+#EXTINF:-1,|FR| CANAL J HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1171
+#EXTINF:-1,|FR| BOOMERANG HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1172
+#EXTINF:-1,|FR| BOING HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1175
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1176
+#EXTINF:-1,|FR| MANGAS HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1173
+#EXTINF:-1,|FR| BOING FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1174
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1177
+#EXTINF:-1,|FR| TIJI HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1178
+#EXTINF:-1,|FR| GULLI HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1179
+#EXTINF:-1,|FR| WEO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1180
+#EXTINF:-1,|FR| DISCOVERY FAMILY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1181
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1182
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1183
+#EXTINF:-1,|FR| DISCOVERY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1184
+#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1185
+#EXTINF:-1,|FR| VOYAGE FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1186
+#EXTINF:-1,|FR| VOYAGE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1187
+#EXTINF:-1,|FR| NATIONAL GEO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1188
+#EXTINF:-1,|FR| NATIONAL GEO FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1189
+#EXTINF:-1,|FR| NATIONAL GEO WILD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1190
+#EXTINF:-1,|FR| ANIMAUX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1191
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1192
+#EXTINF:-1,|FR| SEASONS HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1193
+#EXTINF:-1,|FR| SCIENCES & VIE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1194
+#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1195
+#EXTINF:-1,|FR| HISTOIRE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1196
+#EXTINF:-1,|FR| USHUAIA TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1197
+#EXTINF:-1,|FR| PLANETE+ A&E FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1198
+#EXTINF:-1,|FR| PLANETE+ A&E HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1199
+#EXTINF:-1,|FR| PLANETE  CI HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1200
+#EXTINF:-1,|FR| PLANETE+ HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1201
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD.
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1202
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1203
+#EXTINF:-1,|FR| TREK HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1204
+#EXTINF:-1,|FR| CANAL PLAY 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1205
+#EXTINF:-1,|FR| CANAL PLAY 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1206
+#EXTINF:-1,|FR| CANAL PLAY 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1207
+#EXTINF:-1,|FR| CANAL PLAY 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1208
+#EXTINF:-1,|FR| CANAL PLAY 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1209
+#EXTINF:-1,|FR| CANAL PLAY 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1210
+#EXTINF:-1,|FR|  A LA CARTE 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1211
+#EXTINF:-1,|FR|  A LA CARTE 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1212
+#EXTINF:-1,|FR|  A LA CARTE 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1213
+#EXTINF:-1,|FR|  A LA CARTE 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1214
+#EXTINF:-1,|FR|  A LA CARTE 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1215
+#EXTINF:-1,|FR|  A LA CARTE 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1216
+#EXTINF:-1,|FR|  A LA CARTE 7
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1217
+#EXTINF:-1,|FR|  A LA CARTE 9
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1219
+#EXTINF:-1,|FR|  A LA CARTE 10
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1220
+#EXTINF:-1,|FR|  A LA CARTE 8
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1218
+#EXTINF:-1,•●★★--- Spain ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/479
+#EXTINF:-1,ES: DAZN 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3470
+#EXTINF:-1,ES: DAZN 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3471
+#EXTINF:-1,ES: CUATRO FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3058
+#EXTINF:-1,ES: Cuatro hd
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3059
+#EXTINF:-1,ES:  Movistar Accion HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/340
+#EXTINF:-1,ES: Viajar HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/341
+#EXTINF:-1,ES: Movistar  DCine HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/342
+#EXTINF:-1,ES: Movistar Cine N
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/343
+#EXTINF:-1,ES: Movistar GOLF HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/344
+#EXTINF:-1,ES: Movistar Series HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/345
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2345
+#EXTINF:-1,ES: MOVISTAR Liga Campeones HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/2344
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/346
+#EXTINF:-1,ES: AXN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/347
+#EXTINF:-1,ES: CALLE 13 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/348
+#EXTINF:-1,ES: #0 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/349
+#EXTINF:-1,ES: Movistar F1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/350
+#EXTINF:-1,ES: Movistar toros HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/351
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/352
+#EXTINF:-1,ES: Movistar  Estrenos HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/353
+#EXTINF:-1,ES: Movistar Futbol HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/354
+#EXTINF:-1,ES: CANAL  LIGA  HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/355
+#EXTINF:-1,ES: Movistar  Series Xtra HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/356
+#EXTINF:-1,ES: Canal Coccina
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/357
+#EXTINF:-1,ES: A&E
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/358
+#EXTINF:-1,ES: ANTENNA 3 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/359
+#EXTINF:-1,ES: MEGA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/360
+#EXTINF:-1,ES: C  GOLF
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/361
+#EXTINF:-1,ES: CAZAYPESCA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/362
+#EXTINF:-1,ES: AMC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/363
+#EXTINF:-1,ES: Cosmo HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/364
+#EXTINF:-1,ES: MOVISTAR Seriesmania HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/365
+#EXTINF:-1,ES: Cuatro HD Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/366
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/367
+#EXTINF:-1,ES: ENERGY
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/368
+#EXTINF:-1,ES: FDF
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/369
+#EXTINF:-1,ES: FOX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/370
+#EXTINF:-1,ES: La Liga TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/371
+#EXTINF:-1,ES: History
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/372
+#EXTINF:-1,ES: LA 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/373
+#EXTINF:-1,ES: LA 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/374
+#EXTINF:-1,ES: la sexta HD_local
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/375
+#EXTINF:-1,ES: Movistar Toros
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/376
+#EXTINF:-1,ES: NATIONAL GEO WILD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/377
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC CHANNEL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/378
+#EXTINF:-1,ES: NEOX
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/379
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/380
+#EXTINF:-1,ES: SYFY Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/381
+#EXTINF:-1,ES: TELECINCO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/382
+#EXTINF:-1,ES: TOROS TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/383
+#EXTINF:-1,ES:  Fox Life Dual II
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/385
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/386
+#EXTINF:-1,ES: Barca tv
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3219
+#EXTINF:-1, LIGA TV (ES)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/415
+#EXTINF:-1, LALIGA TV BAR (ES)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/416
+#EXTINF:-1, LIGA 123 HD (ES)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/417
+#EXTINF:-1, LIGA CAMPEONES HD (ES)
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/418
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3658
+#EXTINF:-1,[ES] ALQUILER 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3622
+#EXTINF:-1,[ES] ALQUILER 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3623
+#EXTINF:-1,[ES] ALQUILER 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3624
+#EXTINF:-1,[ES] ALQUILER 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3625
+#EXTINF:-1,[ES] ALQUILER 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3626
+#EXTINF:-1,[ES] ALQUILER 6
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3627
+#EXTINF:-1,[ES] ALQUILER 7
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3628
+#EXTINF:-1,[ES] ALQUILER 8
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3629
+#EXTINF:-1,[ES] ALQUILER 9
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3630
+#EXTINF:-1,[ES] ALQUILER 10
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3631
+#EXTINF:-1,[ES] PARAMOUNT
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3632
+#EXTINF:-1,[ES] M.DRAMA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3633
+#EXTINF:-1,[ES] M. FORMULA 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3634
+#EXTINF:-1,[ES] GOL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3635
+#EXTINF:-1,[ES] EUROSPORT 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3636
+#EXTINF:-1,[ES] EUROSPORT 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3637
+#EXTINF:-1,[ES] COMEDY CENTRAL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3638
+#EXTINF:-1,[ES] BOING
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3639
+#EXTINF:-1,[ES] NOVA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3640
+#EXTINF:-1,[ES] DISNEY JR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3641
+#EXTINF:-1,[ES] DISNEY XD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3642
+#EXTINF:-1,[ES] NICKELODEON  HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3643
+#EXTINF:-1,ES: TEN 4K
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3644
+#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3645
+#EXTINF:-1,MOVISTAR LaLiga 2 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3657
+#EXTINF:-1,|ES| BEIN LIGA 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3659
+#EXTINF:-1,|ES| BEIN LIGA 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3660
+#EXTINF:-1,•●★★--- USA---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/844
+#EXTINF:-1,US:  ABC 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3653
+#EXTINF:-1,US: ABC News
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3654
+#EXTINF:-1,US: VH1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/751
+#EXTINF:-1,US: TNT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3048
+#EXTINF:-1,US: TSN 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3057
+#EXTINF:-1,US:  TSN 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3056
+#EXTINF:-1,US: TSN 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3055
+#EXTINF:-1,US: TSN 4
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3054
+#EXTINF:-1,US: TSN 5
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3053
+#EXTINF:-1,US: ESPN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3049
+#EXTINF:-1,US: ESPN 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3050
+#EXTINF:-1,US: ESPN News HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3051
+#EXTINF:-1,US: ESPN U HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3052
+#EXTINF:-1,US: Bein Sport USA
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/739
+#EXTINF:-1,US: beIN Sports Ñ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/740
+#EXTINF:-1,US: CBS pop
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/741
+#EXTINF:-1,US: ESPN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/742
+#EXTINF:-1,US: ESPN 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/743
+#EXTINF:-1,US: Longhorn Network
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/744
+#EXTINF:-1,US: Hallmark Drama
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/745
+#EXTINF:-1,US: Hallmark Movies and Mysteries
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/746
+#EXTINF:-1,US: HBO COMEDY HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/747
+#EXTINF:-1,US: NAT GEO WILD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/748
+#EXTINF:-1,US: QVC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/749
+#EXTINF:-1,US: ESPN NEWS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/750
+#EXTINF:-1,US: ESPN U
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/752
+#EXTINF:-1,US: Eleven Sports US
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/753
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/754
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/755
+#EXTINF:-1,US: Showtime Showcase
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/756
+#EXTINF:-1,US: ShowTime HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/757
+#EXTINF:-1,US: Starz Cinema HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/758
+#EXTINF:-1,US: STARZ East
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/759
+#EXTINF:-1,US: TBS HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/760
+#EXTINF:-1,US: Discovery Channel HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/761
+#EXTINF:-1,US: Fox Sports Arizona
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/764
+#EXTINF:-1,US: Fox Sports Detroit
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/765
+#EXTINF:-1,US: Fox Sports Florida
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/766
+#EXTINF:-1,US: Fox Tampa
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/767
+#EXTINF:-1,US: Fox Dallas
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/768
+#EXTINF:-1,US: Fox Sacramento
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/769
+#EXTINF:-1,US: Fox Sport 2 4K+
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/770
+#EXTINF:-1,US: Fox News GO
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/771
+#EXTINF:-1,US: Fox Nashville
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/772
+#EXTINF:-1,US: Fox  Sport 1 4K+
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/773
+#EXTINF:-1,US: Fox Los Angeles
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/774
+#EXTINF:-1,US: Fox Sports San Diego
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/775
+#EXTINF:-1,US: Fox Kansas City
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/776
+#EXTINF:-1,US: Fox  Jacksonville
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/777
+#EXTINF:-1,US: Fox  Houston
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/778
+#EXTINF:-1,US: E! Entertainment
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/779
+#EXTINF:-1,US: GOLTV 
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/780
+#EXTINF:-1,US: MLB NETWORK
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/781
+#EXTINF:-1,US: MSG HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/782
+#EXTINF:-1,US: MSNBC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/783
+#EXTINF:-1,US: Mav TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/784
+#EXTINF:-1,US: NBA TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/785
+#EXTINF:-1,US: NBCSN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/786
+#EXTINF:-1,US: NBC GOLF
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/787
+#EXTINF:-1,US: NBC Sports Bay Area Plus
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/788
+#EXTINF:-1,US: NBC Sports Boston
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/789
+#EXTINF:-1,US: NBC Sports California Plus
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/791
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/792
+#EXTINF:-1,US: NBC Sports Nowrthwest
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/793
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/794
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/795
+#EXTINF:-1,US: NBCSN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/796
+#EXTINF:-1,US: NESN
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/797
+#EXTINF:-1,US: NESN PLUS
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/798
+#EXTINF:-1,US: NFL Network
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/799
+#EXTINF:-1,US: Olympic Channel
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/800
+#EXTINF:-1,US: Outside TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/801
+#EXTINF:-1,US: PAC-12 Arizona
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/802
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/804
+#EXTINF:-1,US: PAC-12 Oregon
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/805
+#EXTINF:-1,US: PAC-12 Washington
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/806
+#EXTINF:-1,US: Pac-12 Mountain
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/807
+#EXTINF:-1,US: Pac-12 Network
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/808
+#EXTINF:-1,US: PAC-12 Bay Area
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/803
+#EXTINF:-1,US: wwe Network
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/954
+#EXTINF:-1,BG: ELEVEN 2 SPORTS BELGIUM (FR) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/810
+#EXTINF:-1,BG: ELEVEN 3 SPORTS BELGIUM (FR) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/811
+#EXTINF:-1,BG: ELEVEN 3 SPORTS BELGIUM (NL) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/812
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/813
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (NL) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/814
+#EXTINF:-1,BG: ELEVEN SPORTS 2 BELGIUM (NL) HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/815
+#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/816
+#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/817
+#EXTINF:-1,CA: SPORTSNET EAST
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/818
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/819
+#EXTINF:-1,CA: SPORTSNET WEST
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/820
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/821
+#EXTINF:-1,Latino: Fox Sports 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/828
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/829
+#EXTINF:-1,Latino: WIN SPORT HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/830
+#EXTINF:-1,UK: BT SPORT 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/838
+#EXTINF:-1,UK: BT SPORT 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/839
+#EXTINF:-1,UK: BT SPORT 3
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/840
+#EXTINF:-1,US: NBCSNHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/843
+#EXTINF:-1,DE: 3 SAT FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1222
+#EXTINF:-1,DE: 13th Street FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1224
+#EXTINF:-1,DE: ANIXE
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1226
+#EXTINF:-1,DE: ARD FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1227
+#EXTINF:-1,DE: ARD One HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1228
+#EXTINF:-1,DE: A&E HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1225
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1232
+#EXTINF:-1,DE: AXN HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1233
+#EXTINF:-1,DE: BIBEL TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1237
+#EXTINF:-1,DE: Boomerang HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1238
+#EXTINF:-1,DE: Cartoon Network HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1239
+#EXTINF:-1,DE: Comedy Central HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1240
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1242
+#EXTINF:-1,DE: DAZN 1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1243
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1244
+#EXTINF:-1,DE: DAZN 2 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1245
+#EXTINF:-1,DE: Deluxe Music HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1246
+#EXTINF:-1,DE: DEUTSCHES MUSIK HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1247
+#EXTINF:-1,DE: Discovery CHANNEL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1248
+#EXTINF:-1,DE: Disney Channel FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1249
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1250
+#EXTINF:-1,DE: Disney Junior HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1251
+#EXTINF:-1,DE: Disney XD HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1252
+#EXTINF:-1,DE: DMAX FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1253
+#EXTINF:-1,DE: euronews HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1262
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1263
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1264
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1265
+#EXTINF:-1,DE: FOLX TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1267
+#EXTINF:-1,DE: FOX FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1268
+#EXTINF:-1,DE: Heimatkanal HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1269
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1270
+#EXTINF:-1,DE: HR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1271
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1273
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1274
+#EXTINF:-1,DE: KIKA HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1279
+#EXTINF:-1,DE: MotorVision HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1282
+#EXTINF:-1,DE: MTV FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1283
+#EXTINF:-1,DE: MUNCHEN TV FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1284
+#EXTINF:-1,DE: N-TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1286
+#EXTINF:-1,DE: N24 Doku HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1287
+#EXTINF:-1,DE: MDR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1280
+#EXTINF:-1,DE: NAT GEO FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1289
+#EXTINF:-1,DE: NAT GEO WILD FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1290
+#EXTINF:-1,DE: NDR Fernsehen HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1291
+#EXTINF:-1,DE: NDR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1292
+#EXTINF:-1,DE: Nickelodeon HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1293
+#EXTINF:-1,DE: NITRO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1294
+#EXTINF:-1,DE: ONE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1298
+#EXTINF:-1,DE: Phoenix HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1299
+#EXTINF:-1,DE: Planet HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1300
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1311
+#EXTINF:-1,DE: PRO7 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1312
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1315
+#EXTINF:-1,DE: RBB Berlin HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1316
+#EXTINF:-1,DE: Rnf
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1317
+#EXTINF:-1,DE: ROMANCE TV HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1318
+#EXTINF:-1,DE: RTL 1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1319
+#EXTINF:-1,DE: RTL 2 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1320
+#EXTINF:-1,DE: RTL Crime FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1321
+#EXTINF:-1,DE: RTL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1322
+#EXTINF:-1,DE: RTL II HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1323
+#EXTINF:-1,DE: RTL Living HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1324
+#EXTINF:-1,DE: RTL Nitro HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1325
+#EXTINF:-1,DE: RTL Passion FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1327
+#EXTINF:-1,DE: RTL plus HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1328
+#EXTINF:-1,DE: RTL Super
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1329
+#EXTINF:-1,DE: SAT 1 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1330
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1331
+#EXTINF:-1,DE: Servus HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1332
+#EXTINF:-1,DE: Sony HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1411
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1412
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1413
+#EXTINF:-1,DE: Sport 1 + HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1414
+#EXTINF:-1,DE: Sport 1 Plus HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1416
+#EXTINF:-1,DE: SRF 1 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1418
+#EXTINF:-1,DE: SUPER RTL FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1419
+#EXTINF:-1,DE: Sport Digital FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1417
+#EXTINF:-1,DE: SWR
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1420
+#EXTINF:-1,DE: SyFy FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1421
+#EXTINF:-1,DE: tagesschau 24 HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1422
+#EXTINF:-1,DE: TELE 5 FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1423
+#EXTINF:-1,DE: TLC HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1442
+#EXTINF:-1,DE: TNT COMEDY FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1443
+#EXTINF:-1,DE: TNT FILM HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1444
+#EXTINF:-1,DE: TNT SERIE HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1445
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1447
+#EXTINF:-1,DE: VOX FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1450
+#EXTINF:-1,DE: WDR HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1452
+#EXTINF:-1,DE: Welt
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1453
+#EXTINF:-1,DE: ZDF FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1455
+#EXTINF:-1,DE: ZDF info HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1456
+#EXTINF:-1,DE: ZDF NEO HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1457
+#EXTINF:-1,DE: ZEE ONE FHD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/1458
+#EXTINF:-1,•●★★--- IRAN ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3179
+#EXTINF:-1,IR: iFILM Persian 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3180
+#EXTINF:-1,IR: Manoto HD
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3181
+#EXTINF:-1,IR: VOA Persian
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3182
+#EXTINF:-1,IR: Tin TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3183
+#EXTINF:-1,IR:TV Azadi
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3184
+#EXTINF:-1,IR :Rangarang TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3185
+#EXTINF:-1,IR:Radio Javan TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3186
+#EXTINF:-1,IR:Radio Farda
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3187
+#EXTINF:-1,IR: Payvand TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3188
+#EXTINF:-1,IR:Parsiland TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3189
+#EXTINF:-1,IR:Pars TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3190
+#EXTINF:-1,IR:Parnian TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3191
+#EXTINF:-1,IR:PBC Tapesh TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3192
+#EXTINF:-1,IR:Oxir TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3193
+#EXTINF:-1,IR:Omid Javedan
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3194
+#EXTINF:-1,IR:Navahang TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3195
+#EXTINF:-1,IR:Mohabat TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3196
+#EXTINF:-1,IR:Mihan TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3197
+#EXTINF:-1,IR:Mashhad Live 1
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3198
+#EXTINF:-1,IR:Mashhad Live 2
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3199
+#EXTINF:-1,IR:Manoto
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3200
+#EXTINF:-1,IR:Iran International
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3201
+#EXTINF:-1,IR:INTV Simaye Azadi
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3202
+#EXTINF:-1,IR:EBC1 TV
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3203
+#EXTINF:-1,IR:Al Alam
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3204
+#EXTINF:-1,IR:AFN Farsi
+http://iptv.allkaicerteam.com:8080/alkaicer_u8r0qzocai/otq2a94vjp/3205
